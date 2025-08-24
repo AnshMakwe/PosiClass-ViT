@@ -1,0 +1,3020 @@
+Overall Accuracy 0: 0.5409
+Class Mayo 0 - Correct: 619, Total: 1036, Accuracy: 0.5975
+Class Mayo 1 - Correct: 321, Total: 518, Accuracy: 0.6197
+Class Mayo 2 - Correct: 69, Total: 216, Accuracy: 0.3194
+Class Mayo 3 - Correct: 29, Total: 149, Accuracy: 0.1946
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        619      345       53       19
+Mayo 1        101      321       74       22
+Mayo 2         16      104       69       27
+Mayo 3          9       49       62       29
+
+Overall Accuracy 1: 0.5560
+Class Mayo 0 - Correct: 715, Total: 1036, Accuracy: 0.6902
+Class Mayo 1 - Correct: 203, Total: 518, Accuracy: 0.3919
+Class Mayo 2 - Correct: 44, Total: 216, Accuracy: 0.2037
+Class Mayo 3 - Correct: 105, Total: 149, Accuracy: 0.7047
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        715      156       72       93
+Mayo 1        125      203       97       93
+Mayo 2         21       36       44      115
+Mayo 3          8        9       27      105
+
+Overall Accuracy 2: 0.5284
+Class Mayo 0 - Correct: 677, Total: 1036, Accuracy: 0.6535
+Class Mayo 1 - Correct: 159, Total: 518, Accuracy: 0.3069
+Class Mayo 2 - Correct: 54, Total: 216, Accuracy: 0.2500
+Class Mayo 3 - Correct: 124, Total: 149, Accuracy: 0.8322
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        677      125      120      114
+Mayo 1        110      159      151       98
+Mayo 2         13       14       54      135
+Mayo 3          5        3       17      124
+
+Overall Accuracy 3: 0.4528
+Class Mayo 0 - Correct: 382, Total: 1036, Accuracy: 0.3687
+Class Mayo 1 - Correct: 275, Total: 518, Accuracy: 0.5309
+Class Mayo 2 - Correct: 125, Total: 216, Accuracy: 0.5787
+Class Mayo 3 - Correct: 87, Total: 149, Accuracy: 0.5839
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        382      405      203       46
+Mayo 1         27      275      202       14
+Mayo 2          2       33      125       56
+Mayo 3          1        4       57       87
+
+Overall Accuracy 4: 0.6217
+Class Mayo 0 - Correct: 714, Total: 1036, Accuracy: 0.6892
+Class Mayo 1 - Correct: 274, Total: 518, Accuracy: 0.5290
+Class Mayo 2 - Correct: 106, Total: 216, Accuracy: 0.4907
+Class Mayo 3 - Correct: 99, Total: 149, Accuracy: 0.6644
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        714      211       91       20
+Mayo 1        131      274      103       10
+Mayo 2         20       40      106       50
+Mayo 3          8        4       38       99
+
+Overall Accuracy 5: 0.5597
+Class Mayo 0 - Correct: 593, Total: 1036, Accuracy: 0.5724
+Class Mayo 1 - Correct: 248, Total: 518, Accuracy: 0.4788
+Class Mayo 2 - Correct: 109, Total: 216, Accuracy: 0.5046
+Class Mayo 3 - Correct: 124, Total: 149, Accuracy: 0.8322
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        593      200      159       84
+Mayo 1         82      248      157       31
+Mayo 2         12       20      109       75
+Mayo 3          0        1       24      124
+
+Overall Accuracy 6: 0.5706
+Class Mayo 0 - Correct: 652, Total: 1036, Accuracy: 0.6293
+Class Mayo 1 - Correct: 220, Total: 518, Accuracy: 0.4247
+Class Mayo 2 - Correct: 90, Total: 216, Accuracy: 0.4167
+Class Mayo 3 - Correct: 133, Total: 149, Accuracy: 0.8926
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        652      168      124       92
+Mayo 1        105      220      161       32
+Mayo 2         12       20       90       94
+Mayo 3          1        0       15      133
+
+Overall Accuracy 7: 0.6425
+Class Mayo 0 - Correct: 780, Total: 1036, Accuracy: 0.7529
+Class Mayo 1 - Correct: 234, Total: 518, Accuracy: 0.4517
+Class Mayo 2 - Correct: 103, Total: 216, Accuracy: 0.4769
+Class Mayo 3 - Correct: 116, Total: 149, Accuracy: 0.7785
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        780      144       89       23
+Mayo 1        153      234      115       16
+Mayo 2         22       32      103       59
+Mayo 3          5        2       26      116
+
+Overall Accuracy 8: 0.6175
+Class Mayo 0 - Correct: 822, Total: 1036, Accuracy: 0.7934
+Class Mayo 1 - Correct: 122, Total: 518, Accuracy: 0.2355
+Class Mayo 2 - Correct: 103, Total: 216, Accuracy: 0.4769
+Class Mayo 3 - Correct: 138, Total: 149, Accuracy: 0.9262
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        822       47      104       63
+Mayo 1        208      122      147       41
+Mayo 2         19       10      103       84
+Mayo 3          1        0       10      138
+
+Overall Accuracy 9: 0.5925
+Class Mayo 0 - Correct: 614, Total: 1036, Accuracy: 0.5927
+Class Mayo 1 - Correct: 281, Total: 518, Accuracy: 0.5425
+Class Mayo 2 - Correct: 127, Total: 216, Accuracy: 0.5880
+Class Mayo 3 - Correct: 115, Total: 149, Accuracy: 0.7718
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        614      256      131       35
+Mayo 1         67      281      155       15
+Mayo 2         13       23      127       53
+Mayo 3          3        1       30      115
+
+Overall Accuracy 10: 0.6384
+Class Mayo 0 - Correct: 695, Total: 1036, Accuracy: 0.6708
+Class Mayo 1 - Correct: 325, Total: 518, Accuracy: 0.6274
+Class Mayo 2 - Correct: 111, Total: 216, Accuracy: 0.5139
+Class Mayo 3 - Correct: 94, Total: 149, Accuracy: 0.6309
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        695      262       69       10
+Mayo 1         94      325       95        4
+Mayo 2         14       53      111       38
+Mayo 3          6        4       45       94
+
+Overall Accuracy 11: 0.6514
+Class Mayo 0 - Correct: 713, Total: 1036, Accuracy: 0.6882
+Class Mayo 1 - Correct: 340, Total: 518, Accuracy: 0.6564
+Class Mayo 2 - Correct: 97, Total: 216, Accuracy: 0.4491
+Class Mayo 3 - Correct: 100, Total: 149, Accuracy: 0.6711
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        713      247       63       13
+Mayo 1        106      340       66        6
+Mayo 2         16       63       97       40
+Mayo 3          5        1       43      100
+
+Overall Accuracy 12: 0.6201
+Class Mayo 0 - Correct: 690, Total: 1036, Accuracy: 0.6660
+Class Mayo 1 - Correct: 264, Total: 518, Accuracy: 0.5097
+Class Mayo 2 - Correct: 112, Total: 216, Accuracy: 0.5185
+Class Mayo 3 - Correct: 124, Total: 149, Accuracy: 0.8322
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        690      208      115       23
+Mayo 1         97      264      143       14
+Mayo 2         12       27      112       65
+Mayo 3          2        0       23      124
+
+Overall Accuracy 13: 0.6316
+Class Mayo 0 - Correct: 686, Total: 1036, Accuracy: 0.6622
+Class Mayo 1 - Correct: 303, Total: 518, Accuracy: 0.5849
+Class Mayo 2 - Correct: 135, Total: 216, Accuracy: 0.6250
+Class Mayo 3 - Correct: 88, Total: 149, Accuracy: 0.5906
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        686      216      115       19
+Mayo 1         96      303      108       11
+Mayo 2         10       41      135       30
+Mayo 3          2        2       57       88
+
+Overall Accuracy 14: 0.6550
+Class Mayo 0 - Correct: 779, Total: 1036, Accuracy: 0.7519
+Class Mayo 1 - Correct: 263, Total: 518, Accuracy: 0.5077
+Class Mayo 2 - Correct: 120, Total: 216, Accuracy: 0.5556
+Class Mayo 3 - Correct: 95, Total: 149, Accuracy: 0.6376
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        779      168       71       18
+Mayo 1        149      263       99        7
+Mayo 2         20       33      120       43
+Mayo 3          7        0       47       95
+
+Overall Accuracy 15: 0.6545
+Class Mayo 0 - Correct: 749, Total: 1036, Accuracy: 0.7230
+Class Mayo 1 - Correct: 280, Total: 518, Accuracy: 0.5405
+Class Mayo 2 - Correct: 113, Total: 216, Accuracy: 0.5231
+Class Mayo 3 - Correct: 114, Total: 149, Accuracy: 0.7651
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        749      199       56       32
+Mayo 1        125      280       97       16
+Mayo 2         14       38      113       51
+Mayo 3          3        2       30      114
+
+Overall Accuracy 16: 0.6587
+Class Mayo 0 - Correct: 780, Total: 1036, Accuracy: 0.7529
+Class Mayo 1 - Correct: 255, Total: 518, Accuracy: 0.4923
+Class Mayo 2 - Correct: 114, Total: 216, Accuracy: 0.5278
+Class Mayo 3 - Correct: 115, Total: 149, Accuracy: 0.7718
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        780      169       61       26
+Mayo 1        161      255       92       10
+Mayo 2         24       24      114       54
+Mayo 3          6        0       28      115
+
+Overall Accuracy 17: 0.6863
+Class Mayo 0 - Correct: 821, Total: 1036, Accuracy: 0.7925
+Class Mayo 1 - Correct: 292, Total: 518, Accuracy: 0.5637
+Class Mayo 2 - Correct: 107, Total: 216, Accuracy: 0.4954
+Class Mayo 3 - Correct: 97, Total: 149, Accuracy: 0.6510
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        821      168       34       13
+Mayo 1        146      292       71        9
+Mayo 2         20       57      107       32
+Mayo 3          3        5       44       97
+
+Overall Accuracy 18: 0.6008
+Class Mayo 0 - Correct: 643, Total: 1036, Accuracy: 0.6207
+Class Mayo 1 - Correct: 271, Total: 518, Accuracy: 0.5232
+Class Mayo 2 - Correct: 120, Total: 216, Accuracy: 0.5556
+Class Mayo 3 - Correct: 119, Total: 149, Accuracy: 0.7987
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        643      229      116       48
+Mayo 1         62      271      169       16
+Mayo 2          4       32      120       60
+Mayo 3          0        0       30      119
+
+Overall Accuracy 19: 0.6665
+Class Mayo 0 - Correct: 729, Total: 1036, Accuracy: 0.7037
+Class Mayo 1 - Correct: 355, Total: 518, Accuracy: 0.6853
+Class Mayo 2 - Correct: 118, Total: 216, Accuracy: 0.5463
+Class Mayo 3 - Correct: 77, Total: 149, Accuracy: 0.5168
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        729      253       48        6
+Mayo 1         95      355       64        4
+Mayo 2         14       63      118       21
+Mayo 3          2        3       67       77
+
+Overall Accuracy 20: 0.6769
+Class Mayo 0 - Correct: 803, Total: 1036, Accuracy: 0.7751
+Class Mayo 1 - Correct: 261, Total: 518, Accuracy: 0.5039
+Class Mayo 2 - Correct: 115, Total: 216, Accuracy: 0.5324
+Class Mayo 3 - Correct: 120, Total: 149, Accuracy: 0.8054
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        803      152       46       35
+Mayo 1        143      261      100       14
+Mayo 2         17       28      115       56
+Mayo 3          2        2       25      120
+
+Overall Accuracy 21: 0.6441
+Class Mayo 0 - Correct: 690, Total: 1036, Accuracy: 0.6660
+Class Mayo 1 - Correct: 337, Total: 518, Accuracy: 0.6506
+Class Mayo 2 - Correct: 127, Total: 216, Accuracy: 0.5880
+Class Mayo 3 - Correct: 82, Total: 149, Accuracy: 0.5503
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        690      271       59       16
+Mayo 1         77      337      100        4
+Mayo 2          9       54      127       26
+Mayo 3          3        1       63       82
+
+Overall Accuracy 22: 0.6707
+Class Mayo 0 - Correct: 838, Total: 1036, Accuracy: 0.8089
+Class Mayo 1 - Correct: 241, Total: 518, Accuracy: 0.4653
+Class Mayo 2 - Correct: 80, Total: 216, Accuracy: 0.3704
+Class Mayo 3 - Correct: 128, Total: 149, Accuracy: 0.8591
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        838      160       20       18
+Mayo 1        178      241       75       24
+Mayo 2         32       32       80       72
+Mayo 3         11        3        7      128
+
+Overall Accuracy 23: 0.6639
+Class Mayo 0 - Correct: 754, Total: 1036, Accuracy: 0.7278
+Class Mayo 1 - Correct: 292, Total: 518, Accuracy: 0.5637
+Class Mayo 2 - Correct: 114, Total: 216, Accuracy: 0.5278
+Class Mayo 3 - Correct: 114, Total: 149, Accuracy: 0.7651
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        754      187       66       29
+Mayo 1         91      292      123       12
+Mayo 2         14       31      114       57
+Mayo 3          3        0       32      114
+
+Overall Accuracy 24: 0.6967
+Class Mayo 0 - Correct: 852, Total: 1036, Accuracy: 0.8224
+Class Mayo 1 - Correct: 289, Total: 518, Accuracy: 0.5579
+Class Mayo 2 - Correct: 103, Total: 216, Accuracy: 0.4769
+Class Mayo 3 - Correct: 93, Total: 149, Accuracy: 0.6242
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        852      152       25        7
+Mayo 1        159      289       66        4
+Mayo 2         33       50      103       30
+Mayo 3          7        3       46       93
+
+Overall Accuracy 25: 0.6566
+Class Mayo 0 - Correct: 718, Total: 1036, Accuracy: 0.6931
+Class Mayo 1 - Correct: 317, Total: 518, Accuracy: 0.6120
+Class Mayo 2 - Correct: 96, Total: 216, Accuracy: 0.4444
+Class Mayo 3 - Correct: 129, Total: 149, Accuracy: 0.8658
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        718      191       62       65
+Mayo 1         88      317       81       32
+Mayo 2          9       39       96       72
+Mayo 3          2        1       17      129
+
+Overall Accuracy 26: 0.6618
+Class Mayo 0 - Correct: 778, Total: 1036, Accuracy: 0.7510
+Class Mayo 1 - Correct: 245, Total: 518, Accuracy: 0.4730
+Class Mayo 2 - Correct: 130, Total: 216, Accuracy: 0.6019
+Class Mayo 3 - Correct: 117, Total: 149, Accuracy: 0.7852
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        778      143       87       28
+Mayo 1        126      245      133       14
+Mayo 2         10       20      130       56
+Mayo 3          4        1       27      117
+
+Overall Accuracy 27: 0.6946
+Class Mayo 0 - Correct: 788, Total: 1036, Accuracy: 0.7606
+Class Mayo 1 - Correct: 336, Total: 518, Accuracy: 0.6486
+Class Mayo 2 - Correct: 116, Total: 216, Accuracy: 0.5370
+Class Mayo 3 - Correct: 93, Total: 149, Accuracy: 0.6242
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        788      200       32       16
+Mayo 1        110      336       63        9
+Mayo 2         13       54      116       33
+Mayo 3          4        6       46       93
+
+Overall Accuracy 28: 0.6639
+Class Mayo 0 - Correct: 774, Total: 1036, Accuracy: 0.7471
+Class Mayo 1 - Correct: 250, Total: 518, Accuracy: 0.4826
+Class Mayo 2 - Correct: 120, Total: 216, Accuracy: 0.5556
+Class Mayo 3 - Correct: 130, Total: 149, Accuracy: 0.8725
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        774      156       73       33
+Mayo 1        112      250      127       29
+Mayo 2          8       24      120       64
+Mayo 3          1        2       16      130
+
+Overall Accuracy 29: 0.6873
+Class Mayo 0 - Correct: 799, Total: 1036, Accuracy: 0.7712
+Class Mayo 1 - Correct: 319, Total: 518, Accuracy: 0.6158
+Class Mayo 2 - Correct: 108, Total: 216, Accuracy: 0.5000
+Class Mayo 3 - Correct: 93, Total: 149, Accuracy: 0.6242
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        799      187       35       15
+Mayo 1        129      319       62        8
+Mayo 2         15       51      108       42
+Mayo 3          5        0       51       93
+
+Overall Accuracy 30: 0.6905
+Class Mayo 0 - Correct: 858, Total: 1036, Accuracy: 0.8282
+Class Mayo 1 - Correct: 266, Total: 518, Accuracy: 0.5135
+Class Mayo 2 - Correct: 111, Total: 216, Accuracy: 0.5139
+Class Mayo 3 - Correct: 90, Total: 149, Accuracy: 0.6040
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        858      147       24        7
+Mayo 1        170      266       78        4
+Mayo 2         33       43      111       29
+Mayo 3          9        3       47       90
+
+Overall Accuracy 31: 0.6561
+Class Mayo 0 - Correct: 728, Total: 1036, Accuracy: 0.7027
+Class Mayo 1 - Correct: 316, Total: 518, Accuracy: 0.6100
+Class Mayo 2 - Correct: 123, Total: 216, Accuracy: 0.5694
+Class Mayo 3 - Correct: 92, Total: 149, Accuracy: 0.6174
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        728      223       67       18
+Mayo 1         99      316       94        9
+Mayo 2         10       41      123       42
+Mayo 3          2        2       53       92
+
+Overall Accuracy 32: 0.6837
+Class Mayo 0 - Correct: 780, Total: 1036, Accuracy: 0.7529
+Class Mayo 1 - Correct: 304, Total: 518, Accuracy: 0.5869
+Class Mayo 2 - Correct: 128, Total: 216, Accuracy: 0.5926
+Class Mayo 3 - Correct: 100, Total: 149, Accuracy: 0.6711
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        780      186       52       18
+Mayo 1        115      304       88       11
+Mayo 2         13       36      128       39
+Mayo 3          2        3       44      100
+
+Overall Accuracy 33: 0.6696
+Class Mayo 0 - Correct: 778, Total: 1036, Accuracy: 0.7510
+Class Mayo 1 - Correct: 292, Total: 518, Accuracy: 0.5637
+Class Mayo 2 - Correct: 92, Total: 216, Accuracy: 0.4259
+Class Mayo 3 - Correct: 123, Total: 149, Accuracy: 0.8255
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        778      190       42       26
+Mayo 1        104      292       96       26
+Mayo 2         10       39       92       75
+Mayo 3          2        2       22      123
+
+Overall Accuracy 34: 0.6274
+Class Mayo 0 - Correct: 659, Total: 1036, Accuracy: 0.6361
+Class Mayo 1 - Correct: 318, Total: 518, Accuracy: 0.6139
+Class Mayo 2 - Correct: 101, Total: 216, Accuracy: 0.4676
+Class Mayo 3 - Correct: 126, Total: 149, Accuracy: 0.8456
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        659      272       55       50
+Mayo 1         69      318      108       23
+Mayo 2          5       37      101       73
+Mayo 3          1        1       21      126
+
+Overall Accuracy 35: 0.6477
+Class Mayo 0 - Correct: 754, Total: 1036, Accuracy: 0.7278
+Class Mayo 1 - Correct: 237, Total: 518, Accuracy: 0.4575
+Class Mayo 2 - Correct: 134, Total: 216, Accuracy: 0.6204
+Class Mayo 3 - Correct: 118, Total: 149, Accuracy: 0.7919
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        754      173       77       32
+Mayo 1        108      237      149       24
+Mayo 2          6       17      134       59
+Mayo 3          1        0       30      118
+
+Overall Accuracy 36: 0.6655
+Class Mayo 0 - Correct: 751, Total: 1036, Accuracy: 0.7249
+Class Mayo 1 - Correct: 323, Total: 518, Accuracy: 0.6236
+Class Mayo 2 - Correct: 93, Total: 216, Accuracy: 0.4306
+Class Mayo 3 - Correct: 110, Total: 149, Accuracy: 0.7383
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        751      223       30       32
+Mayo 1         98      323       70       27
+Mayo 2         11       57       93       55
+Mayo 3          1        3       35      110
+
+Overall Accuracy 37: 0.6608
+Class Mayo 0 - Correct: 755, Total: 1036, Accuracy: 0.7288
+Class Mayo 1 - Correct: 298, Total: 518, Accuracy: 0.5753
+Class Mayo 2 - Correct: 115, Total: 216, Accuracy: 0.5324
+Class Mayo 3 - Correct: 100, Total: 149, Accuracy: 0.6711
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        755      212       47       22
+Mayo 1        114      298       91       15
+Mayo 2         10       39      115       52
+Mayo 3          3        1       45      100
+
+Overall Accuracy 38: 0.6748
+Class Mayo 0 - Correct: 829, Total: 1036, Accuracy: 0.8002
+Class Mayo 1 - Correct: 230, Total: 518, Accuracy: 0.4440
+Class Mayo 2 - Correct: 126, Total: 216, Accuracy: 0.5833
+Class Mayo 3 - Correct: 110, Total: 149, Accuracy: 0.7383
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        829      127       56       24
+Mayo 1        146      230      124       18
+Mayo 2         10       29      126       51
+Mayo 3          5        2       32      110
+
+Overall Accuracy 39: 0.6524
+Class Mayo 0 - Correct: 704, Total: 1036, Accuracy: 0.6795
+Class Mayo 1 - Correct: 322, Total: 518, Accuracy: 0.6216
+Class Mayo 2 - Correct: 110, Total: 216, Accuracy: 0.5093
+Class Mayo 3 - Correct: 116, Total: 149, Accuracy: 0.7785
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        704      244       56       32
+Mayo 1         83      322       91       22
+Mayo 2         11       39      110       56
+Mayo 3          2        2       29      116
+
+Overall Accuracy 40: 0.6847
+Class Mayo 0 - Correct: 785, Total: 1036, Accuracy: 0.7577
+Class Mayo 1 - Correct: 304, Total: 518, Accuracy: 0.5869
+Class Mayo 2 - Correct: 116, Total: 216, Accuracy: 0.5370
+Class Mayo 3 - Correct: 109, Total: 149, Accuracy: 0.7315
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        785      193       47       11
+Mayo 1        122      304       80       12
+Mayo 2         11       47      116       42
+Mayo 3          2        3       35      109
+
+Overall Accuracy 41: 0.6941
+Class Mayo 0 - Correct: 833, Total: 1036, Accuracy: 0.8041
+Class Mayo 1 - Correct: 273, Total: 518, Accuracy: 0.5270
+Class Mayo 2 - Correct: 117, Total: 216, Accuracy: 0.5417
+Class Mayo 3 - Correct: 109, Total: 149, Accuracy: 0.7315
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        833      150       30       23
+Mayo 1        160      273       65       20
+Mayo 2         19       36      117       44
+Mayo 3          5        1       34      109
+
+Overall Accuracy 42: 0.6863
+Class Mayo 0 - Correct: 773, Total: 1036, Accuracy: 0.7461
+Class Mayo 1 - Correct: 333, Total: 518, Accuracy: 0.6429
+Class Mayo 2 - Correct: 100, Total: 216, Accuracy: 0.4630
+Class Mayo 3 - Correct: 111, Total: 149, Accuracy: 0.7450
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        773      219       31       13
+Mayo 1        108      333       59       18
+Mayo 2         10       53      100       53
+Mayo 3          4       10       24      111
+
+Overall Accuracy 43: 0.6967
+Class Mayo 0 - Correct: 795, Total: 1036, Accuracy: 0.7674
+Class Mayo 1 - Correct: 342, Total: 518, Accuracy: 0.6602
+Class Mayo 2 - Correct: 104, Total: 216, Accuracy: 0.4815
+Class Mayo 3 - Correct: 96, Total: 149, Accuracy: 0.6443
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        795      196       28       17
+Mayo 1        110      342       52       14
+Mayo 2         11       56      104       45
+Mayo 3          3        5       45       96
+
+Overall Accuracy 44: 0.6821
+Class Mayo 0 - Correct: 800, Total: 1036, Accuracy: 0.7722
+Class Mayo 1 - Correct: 283, Total: 518, Accuracy: 0.5463
+Class Mayo 2 - Correct: 124, Total: 216, Accuracy: 0.5741
+Class Mayo 3 - Correct: 102, Total: 149, Accuracy: 0.6846
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        800      160       60       16
+Mayo 1        132      283       88       15
+Mayo 2         14       41      124       37
+Mayo 3          3        3       41      102
+
+Overall Accuracy 45: 0.6962
+Class Mayo 0 - Correct: 808, Total: 1036, Accuracy: 0.7799
+Class Mayo 1 - Correct: 304, Total: 518, Accuracy: 0.5869
+Class Mayo 2 - Correct: 102, Total: 216, Accuracy: 0.4722
+Class Mayo 3 - Correct: 122, Total: 149, Accuracy: 0.8188
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        808      189       24       15
+Mayo 1        127      304       66       21
+Mayo 2         15       38      102       61
+Mayo 3          3        2       22      122
+
+Overall Accuracy 46: 0.6941
+Class Mayo 0 - Correct: 827, Total: 1036, Accuracy: 0.7983
+Class Mayo 1 - Correct: 270, Total: 518, Accuracy: 0.5212
+Class Mayo 2 - Correct: 115, Total: 216, Accuracy: 0.5324
+Class Mayo 3 - Correct: 120, Total: 149, Accuracy: 0.8054
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        827      146       39       24
+Mayo 1        139      270       79       30
+Mayo 2         19       34      115       48
+Mayo 3          3        3       23      120
+
+Overall Accuracy 47: 0.6983
+Class Mayo 0 - Correct: 822, Total: 1036, Accuracy: 0.7934
+Class Mayo 1 - Correct: 298, Total: 518, Accuracy: 0.5753
+Class Mayo 2 - Correct: 118, Total: 216, Accuracy: 0.5463
+Class Mayo 3 - Correct: 102, Total: 149, Accuracy: 0.6846
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        822      158       42       14
+Mayo 1        124      298       83       13
+Mayo 2         18       46      118       34
+Mayo 3          4        5       38      102
+
+Overall Accuracy 48: 0.6832
+Class Mayo 0 - Correct: 785, Total: 1036, Accuracy: 0.7577
+Class Mayo 1 - Correct: 282, Total: 518, Accuracy: 0.5444
+Class Mayo 2 - Correct: 118, Total: 216, Accuracy: 0.5463
+Class Mayo 3 - Correct: 126, Total: 149, Accuracy: 0.8456
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        785      177       45       29
+Mayo 1        117      282       96       23
+Mayo 2          9       36      118       53
+Mayo 3          2        3       18      126
+
+Overall Accuracy 49: 0.6707
+Class Mayo 0 - Correct: 732, Total: 1036, Accuracy: 0.7066
+Class Mayo 1 - Correct: 298, Total: 518, Accuracy: 0.5753
+Class Mayo 2 - Correct: 138, Total: 216, Accuracy: 0.6389
+Class Mayo 3 - Correct: 119, Total: 149, Accuracy: 0.7987
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        732      222       51       31
+Mayo 1         89      298      109       22
+Mayo 2          5       23      138       50
+Mayo 3          2        1       27      119
+
+Overall Accuracy 50: 0.6894
+Class Mayo 0 - Correct: 792, Total: 1036, Accuracy: 0.7645
+Class Mayo 1 - Correct: 304, Total: 518, Accuracy: 0.5869
+Class Mayo 2 - Correct: 123, Total: 216, Accuracy: 0.5694
+Class Mayo 3 - Correct: 104, Total: 149, Accuracy: 0.6980
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        792      200       33       11
+Mayo 1        123      304       75       16
+Mayo 2          8       44      123       41
+Mayo 3          5        3       37      104
+
+Overall Accuracy 51: 0.6670
+Class Mayo 0 - Correct: 766, Total: 1036, Accuracy: 0.7394
+Class Mayo 1 - Correct: 287, Total: 518, Accuracy: 0.5541
+Class Mayo 2 - Correct: 115, Total: 216, Accuracy: 0.5324
+Class Mayo 3 - Correct: 112, Total: 149, Accuracy: 0.7517
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        766      191       59       20
+Mayo 1         99      287      105       27
+Mayo 2         10       39      115       52
+Mayo 3          3        2       32      112
+
+Overall Accuracy 52: 0.6769
+Class Mayo 0 - Correct: 764, Total: 1036, Accuracy: 0.7375
+Class Mayo 1 - Correct: 317, Total: 518, Accuracy: 0.6120
+Class Mayo 2 - Correct: 114, Total: 216, Accuracy: 0.5278
+Class Mayo 3 - Correct: 104, Total: 149, Accuracy: 0.6980
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        764      218       37       17
+Mayo 1        105      317       80       16
+Mayo 2         13       42      114       47
+Mayo 3          7        2       36      104
+
+Overall Accuracy 53: 0.6858
+Class Mayo 0 - Correct: 818, Total: 1036, Accuracy: 0.7896
+Class Mayo 1 - Correct: 287, Total: 518, Accuracy: 0.5541
+Class Mayo 2 - Correct: 94, Total: 216, Accuracy: 0.4352
+Class Mayo 3 - Correct: 117, Total: 149, Accuracy: 0.7852
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        818      145       40       33
+Mayo 1        142      287       58       31
+Mayo 2         17       43       94       62
+Mayo 3          2        3       27      117
+
+Overall Accuracy 54: 0.6826
+Class Mayo 0 - Correct: 763, Total: 1036, Accuracy: 0.7365
+Class Mayo 1 - Correct: 352, Total: 518, Accuracy: 0.6795
+Class Mayo 2 - Correct: 91, Total: 216, Accuracy: 0.4213
+Class Mayo 3 - Correct: 104, Total: 149, Accuracy: 0.6980
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        763      240       22       11
+Mayo 1        100      352       43       23
+Mayo 2         13       65       91       47
+Mayo 3          5       10       30      104
+
+Overall Accuracy 55: 0.6957
+Class Mayo 0 - Correct: 777, Total: 1036, Accuracy: 0.7500
+Class Mayo 1 - Correct: 333, Total: 518, Accuracy: 0.6429
+Class Mayo 2 - Correct: 113, Total: 216, Accuracy: 0.5231
+Class Mayo 3 - Correct: 112, Total: 149, Accuracy: 0.7517
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        777      201       33       25
+Mayo 1        113      333       54       18
+Mayo 2         10       51      113       42
+Mayo 3          3        2       32      112
+
+Overall Accuracy 56: 0.6821
+Class Mayo 0 - Correct: 736, Total: 1036, Accuracy: 0.7104
+Class Mayo 1 - Correct: 352, Total: 518, Accuracy: 0.6795
+Class Mayo 2 - Correct: 112, Total: 216, Accuracy: 0.5185
+Class Mayo 3 - Correct: 109, Total: 149, Accuracy: 0.7315
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        736      246       36       18
+Mayo 1         86      352       63       17
+Mayo 2          8       58      112       38
+Mayo 3          3        6       31      109
+
+Overall Accuracy 57: 0.6837
+Class Mayo 0 - Correct: 752, Total: 1036, Accuracy: 0.7259
+Class Mayo 1 - Correct: 336, Total: 518, Accuracy: 0.6486
+Class Mayo 2 - Correct: 124, Total: 216, Accuracy: 0.5741
+Class Mayo 3 - Correct: 100, Total: 149, Accuracy: 0.6711
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        752      229       43       12
+Mayo 1        104      336       66       12
+Mayo 2          9       47      124       36
+Mayo 3          3        2       44      100
+
+Overall Accuracy 58: 0.6853
+Class Mayo 0 - Correct: 759, Total: 1036, Accuracy: 0.7326
+Class Mayo 1 - Correct: 333, Total: 518, Accuracy: 0.6429
+Class Mayo 2 - Correct: 109, Total: 216, Accuracy: 0.5046
+Class Mayo 3 - Correct: 114, Total: 149, Accuracy: 0.7651
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        759      224       35       18
+Mayo 1        101      333       67       17
+Mayo 2         11       51      109       45
+Mayo 3          6        4       25      114
+
+Overall Accuracy 59: 0.6905
+Class Mayo 0 - Correct: 810, Total: 1036, Accuracy: 0.7819
+Class Mayo 1 - Correct: 304, Total: 518, Accuracy: 0.5869
+Class Mayo 2 - Correct: 106, Total: 216, Accuracy: 0.4907
+Class Mayo 3 - Correct: 105, Total: 149, Accuracy: 0.7047
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        810      177       33       16
+Mayo 1        137      304       59       18
+Mayo 2         17       51      106       42
+Mayo 3          2        3       39      105
+
+Overall Accuracy 60: 0.6941
+Class Mayo 0 - Correct: 796, Total: 1036, Accuracy: 0.7683
+Class Mayo 1 - Correct: 345, Total: 518, Accuracy: 0.6660
+Class Mayo 2 - Correct: 104, Total: 216, Accuracy: 0.4815
+Class Mayo 3 - Correct: 87, Total: 149, Accuracy: 0.5839
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        796      213       19        8
+Mayo 1        128      345       37        8
+Mayo 2         10       80      104       22
+Mayo 3          7        9       46       87
+
+Overall Accuracy 61: 0.6884
+Class Mayo 0 - Correct: 763, Total: 1036, Accuracy: 0.7365
+Class Mayo 1 - Correct: 342, Total: 518, Accuracy: 0.6602
+Class Mayo 2 - Correct: 93, Total: 216, Accuracy: 0.4306
+Class Mayo 3 - Correct: 123, Total: 149, Accuracy: 0.8255
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        763      227       27       19
+Mayo 1        106      342       43       27
+Mayo 2         11       55       93       57
+Mayo 3          4        4       18      123
+
+Overall Accuracy 62: 0.7103
+Class Mayo 0 - Correct: 844, Total: 1036, Accuracy: 0.8147
+Class Mayo 1 - Correct: 328, Total: 518, Accuracy: 0.6332
+Class Mayo 2 - Correct: 99, Total: 216, Accuracy: 0.4583
+Class Mayo 3 - Correct: 92, Total: 149, Accuracy: 0.6174
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        844      172       14        6
+Mayo 1        140      328       38       12
+Mayo 2         19       63       99       35
+Mayo 3          3        8       46       92
+
+Overall Accuracy 63: 0.6738
+Class Mayo 0 - Correct: 810, Total: 1036, Accuracy: 0.7819
+Class Mayo 1 - Correct: 260, Total: 518, Accuracy: 0.5019
+Class Mayo 2 - Correct: 113, Total: 216, Accuracy: 0.5231
+Class Mayo 3 - Correct: 110, Total: 149, Accuracy: 0.7383
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        810      164       49       13
+Mayo 1        147      260       93       18
+Mayo 2         11       44      113       48
+Mayo 3          2        3       34      110
+
+Overall Accuracy 64: 0.6769
+Class Mayo 0 - Correct: 767, Total: 1036, Accuracy: 0.7403
+Class Mayo 1 - Correct: 320, Total: 518, Accuracy: 0.6178
+Class Mayo 2 - Correct: 103, Total: 216, Accuracy: 0.4769
+Class Mayo 3 - Correct: 109, Total: 149, Accuracy: 0.7315
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        767      215       43       11
+Mayo 1         95      320       84       19
+Mayo 2         17       47      103       49
+Mayo 3          4        5       31      109
+
+Overall Accuracy 65: 0.6847
+Class Mayo 0 - Correct: 813, Total: 1036, Accuracy: 0.7847
+Class Mayo 1 - Correct: 285, Total: 518, Accuracy: 0.5502
+Class Mayo 2 - Correct: 104, Total: 216, Accuracy: 0.4815
+Class Mayo 3 - Correct: 112, Total: 149, Accuracy: 0.7517
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        813      170       38       15
+Mayo 1        135      285       80       18
+Mayo 2         15       46      104       51
+Mayo 3          2        1       34      112
+
+Overall Accuracy 66: 0.6972
+Class Mayo 0 - Correct: 803, Total: 1036, Accuracy: 0.7751
+Class Mayo 1 - Correct: 316, Total: 518, Accuracy: 0.6100
+Class Mayo 2 - Correct: 110, Total: 216, Accuracy: 0.5093
+Class Mayo 3 - Correct: 109, Total: 149, Accuracy: 0.7315
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        803      183       31       19
+Mayo 1        124      316       55       23
+Mayo 2         14       49      110       43
+Mayo 3          4        4       32      109
+
+Overall Accuracy 67: 0.7144
+Class Mayo 0 - Correct: 850, Total: 1036, Accuracy: 0.8205
+Class Mayo 1 - Correct: 305, Total: 518, Accuracy: 0.5888
+Class Mayo 2 - Correct: 103, Total: 216, Accuracy: 0.4769
+Class Mayo 3 - Correct: 113, Total: 149, Accuracy: 0.7584
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        850      152       26        8
+Mayo 1        144      305       51       18
+Mayo 2         26       51      103       36
+Mayo 3          3        4       29      113
+
+Overall Accuracy 68: 0.6978
+Class Mayo 0 - Correct: 829, Total: 1036, Accuracy: 0.8002
+Class Mayo 1 - Correct: 287, Total: 518, Accuracy: 0.5541
+Class Mayo 2 - Correct: 106, Total: 216, Accuracy: 0.4907
+Class Mayo 3 - Correct: 117, Total: 149, Accuracy: 0.7852
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        829      161       28       18
+Mayo 1        130      287       82       19
+Mayo 2         21       43      106       46
+Mayo 3          3        4       25      117
+
+Overall Accuracy 69: 0.7118
+Class Mayo 0 - Correct: 837, Total: 1036, Accuracy: 0.8079
+Class Mayo 1 - Correct: 321, Total: 518, Accuracy: 0.6197
+Class Mayo 2 - Correct: 110, Total: 216, Accuracy: 0.5093
+Class Mayo 3 - Correct: 98, Total: 149, Accuracy: 0.6577
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        837      183        9        7
+Mayo 1        145      321       41       11
+Mayo 2         26       53      110       27
+Mayo 3          8        6       37       98
+
+Overall Accuracy 70: 0.6915
+Class Mayo 0 - Correct: 793, Total: 1036, Accuracy: 0.7654
+Class Mayo 1 - Correct: 337, Total: 518, Accuracy: 0.6506
+Class Mayo 2 - Correct: 105, Total: 216, Accuracy: 0.4861
+Class Mayo 3 - Correct: 92, Total: 149, Accuracy: 0.6174
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        793      213       20       10
+Mayo 1        119      337       52       10
+Mayo 2         10       67      105       34
+Mayo 3          3        5       49       92
+
+Overall Accuracy 71: 0.6936
+Class Mayo 0 - Correct: 831, Total: 1036, Accuracy: 0.8021
+Class Mayo 1 - Correct: 275, Total: 518, Accuracy: 0.5309
+Class Mayo 2 - Correct: 113, Total: 216, Accuracy: 0.5231
+Class Mayo 3 - Correct: 112, Total: 149, Accuracy: 0.7517
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        831      152       35       18
+Mayo 1        146      275       75       22
+Mayo 2         15       46      113       42
+Mayo 3          5        2       30      112
+
+Overall Accuracy 72: 0.6983
+Class Mayo 0 - Correct: 793, Total: 1036, Accuracy: 0.7654
+Class Mayo 1 - Correct: 344, Total: 518, Accuracy: 0.6641
+Class Mayo 2 - Correct: 103, Total: 216, Accuracy: 0.4769
+Class Mayo 3 - Correct: 100, Total: 149, Accuracy: 0.6711
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        793      214       20        9
+Mayo 1        124      344       43        7
+Mayo 2         15       67      103       31
+Mayo 3          3        3       43      100
+
+Overall Accuracy 73: 0.6806
+Class Mayo 0 - Correct: 737, Total: 1036, Accuracy: 0.7114
+Class Mayo 1 - Correct: 343, Total: 518, Accuracy: 0.6622
+Class Mayo 2 - Correct: 119, Total: 216, Accuracy: 0.5509
+Class Mayo 3 - Correct: 107, Total: 149, Accuracy: 0.7181
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        737      245       43       11
+Mayo 1         95      343       66       14
+Mayo 2          6       60      119       31
+Mayo 3          2        4       36      107
+
+Overall Accuracy 74: 0.7035
+Class Mayo 0 - Correct: 808, Total: 1036, Accuracy: 0.7799
+Class Mayo 1 - Correct: 329, Total: 518, Accuracy: 0.6351
+Class Mayo 2 - Correct: 102, Total: 216, Accuracy: 0.4722
+Class Mayo 3 - Correct: 111, Total: 149, Accuracy: 0.7450
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        808      199       16       13
+Mayo 1        124      329       47       18
+Mayo 2         22       60      102       32
+Mayo 3          5        6       27      111
+
+Overall Accuracy 75: 0.6993
+Class Mayo 0 - Correct: 848, Total: 1036, Accuracy: 0.8185
+Class Mayo 1 - Correct: 301, Total: 518, Accuracy: 0.5811
+Class Mayo 2 - Correct: 87, Total: 216, Accuracy: 0.4028
+Class Mayo 3 - Correct: 106, Total: 149, Accuracy: 0.7114
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        848      169        9       10
+Mayo 1        156      301       41       20
+Mayo 2         24       59       87       46
+Mayo 3          6        7       30      106
+
+Overall Accuracy 76: 0.6936
+Class Mayo 0 - Correct: 793, Total: 1036, Accuracy: 0.7654
+Class Mayo 1 - Correct: 347, Total: 518, Accuracy: 0.6699
+Class Mayo 2 - Correct: 83, Total: 216, Accuracy: 0.3843
+Class Mayo 3 - Correct: 108, Total: 149, Accuracy: 0.7248
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        793      217       15       11
+Mayo 1        124      347       32       15
+Mayo 2         25       73       83       35
+Mayo 3          2       11       28      108
+
+Overall Accuracy 77: 0.6936
+Class Mayo 0 - Correct: 804, Total: 1036, Accuracy: 0.7761
+Class Mayo 1 - Correct: 330, Total: 518, Accuracy: 0.6371
+Class Mayo 2 - Correct: 95, Total: 216, Accuracy: 0.4398
+Class Mayo 3 - Correct: 102, Total: 149, Accuracy: 0.6846
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        804      197       17       18
+Mayo 1        129      330       40       19
+Mayo 2         16       53       95       52
+Mayo 3          2        2       43      102
+
+Overall Accuracy 78: 0.6858
+Class Mayo 0 - Correct: 765, Total: 1036, Accuracy: 0.7384
+Class Mayo 1 - Correct: 347, Total: 518, Accuracy: 0.6699
+Class Mayo 2 - Correct: 108, Total: 216, Accuracy: 0.5000
+Class Mayo 3 - Correct: 96, Total: 149, Accuracy: 0.6443
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        765      244       24        3
+Mayo 1        108      347       49       14
+Mayo 2         11       63      108       34
+Mayo 3          3        6       44       96
+
+Overall Accuracy 79: 0.6941
+Class Mayo 0 - Correct: 780, Total: 1036, Accuracy: 0.7529
+Class Mayo 1 - Correct: 354, Total: 518, Accuracy: 0.6834
+Class Mayo 2 - Correct: 91, Total: 216, Accuracy: 0.4213
+Class Mayo 3 - Correct: 107, Total: 149, Accuracy: 0.7181
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        780      228       21        7
+Mayo 1        105      354       49       10
+Mayo 2         13       72       91       40
+Mayo 3          4        8       30      107
+
+Overall Accuracy 80: 0.6691
+Class Mayo 0 - Correct: 733, Total: 1036, Accuracy: 0.7075
+Class Mayo 1 - Correct: 368, Total: 518, Accuracy: 0.7104
+Class Mayo 2 - Correct: 91, Total: 216, Accuracy: 0.4213
+Class Mayo 3 - Correct: 92, Total: 149, Accuracy: 0.6174
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        733      262       29       12
+Mayo 1        100      368       34       16
+Mayo 2         14       67       91       44
+Mayo 3          8        5       44       92
+
+Overall Accuracy 81: 0.7066
+Class Mayo 0 - Correct: 830, Total: 1036, Accuracy: 0.8012
+Class Mayo 1 - Correct: 322, Total: 518, Accuracy: 0.6216
+Class Mayo 2 - Correct: 109, Total: 216, Accuracy: 0.5046
+Class Mayo 3 - Correct: 95, Total: 149, Accuracy: 0.6376
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        830      165       26       15
+Mayo 1        135      322       48       13
+Mayo 2         16       56      109       35
+Mayo 3          5        3       46       95
+
+Overall Accuracy 82: 0.6691
+Class Mayo 0 - Correct: 736, Total: 1036, Accuracy: 0.7104
+Class Mayo 1 - Correct: 333, Total: 518, Accuracy: 0.6429
+Class Mayo 2 - Correct: 107, Total: 216, Accuracy: 0.4954
+Class Mayo 3 - Correct: 108, Total: 149, Accuracy: 0.7248
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        736      249       29       22
+Mayo 1        106      333       59       20
+Mayo 2          8       56      107       45
+Mayo 3          3        6       32      108
+
+Overall Accuracy 83: 0.6993
+Class Mayo 0 - Correct: 834, Total: 1036, Accuracy: 0.8050
+Class Mayo 1 - Correct: 313, Total: 518, Accuracy: 0.6042
+Class Mayo 2 - Correct: 99, Total: 216, Accuracy: 0.4583
+Class Mayo 3 - Correct: 96, Total: 149, Accuracy: 0.6443
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        834      164       20       18
+Mayo 1        141      313       50       14
+Mayo 2         15       62       99       40
+Mayo 3          7        4       42       96
+
+Overall Accuracy 84: 0.6842
+Class Mayo 0 - Correct: 798, Total: 1036, Accuracy: 0.7703
+Class Mayo 1 - Correct: 312, Total: 518, Accuracy: 0.6023
+Class Mayo 2 - Correct: 96, Total: 216, Accuracy: 0.4444
+Class Mayo 3 - Correct: 107, Total: 149, Accuracy: 0.7181
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        798      196       31       11
+Mayo 1        132      312       58       16
+Mayo 2         20       62       96       38
+Mayo 3          3        3       36      107
+
+Overall Accuracy 85: 0.6769
+Class Mayo 0 - Correct: 779, Total: 1036, Accuracy: 0.7519
+Class Mayo 1 - Correct: 335, Total: 518, Accuracy: 0.6467
+Class Mayo 2 - Correct: 84, Total: 216, Accuracy: 0.3889
+Class Mayo 3 - Correct: 101, Total: 149, Accuracy: 0.6779
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        779      223       17       17
+Mayo 1        120      335       46       17
+Mayo 2         24       69       84       39
+Mayo 3          5        4       39      101
+
+Overall Accuracy 86: 0.7082
+Class Mayo 0 - Correct: 834, Total: 1036, Accuracy: 0.8050
+Class Mayo 1 - Correct: 316, Total: 518, Accuracy: 0.6100
+Class Mayo 2 - Correct: 106, Total: 216, Accuracy: 0.4907
+Class Mayo 3 - Correct: 103, Total: 149, Accuracy: 0.6913
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        834      175       19        8
+Mayo 1        135      316       54       13
+Mayo 2         23       47      106       40
+Mayo 3          6        3       37      103
+
+Overall Accuracy 87: 0.6899
+Class Mayo 0 - Correct: 797, Total: 1036, Accuracy: 0.7693
+Class Mayo 1 - Correct: 322, Total: 518, Accuracy: 0.6216
+Class Mayo 2 - Correct: 101, Total: 216, Accuracy: 0.4676
+Class Mayo 3 - Correct: 104, Total: 149, Accuracy: 0.6980
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        797      200       30        9
+Mayo 1        128      322       46       22
+Mayo 2         14       58      101       43
+Mayo 3          1        4       40      104
+
+Overall Accuracy 88: 0.6967
+Class Mayo 0 - Correct: 802, Total: 1036, Accuracy: 0.7741
+Class Mayo 1 - Correct: 331, Total: 518, Accuracy: 0.6390
+Class Mayo 2 - Correct: 107, Total: 216, Accuracy: 0.4954
+Class Mayo 3 - Correct: 97, Total: 149, Accuracy: 0.6510
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        802      207       23        4
+Mayo 1        120      331       54       13
+Mayo 2         16       64      107       29
+Mayo 3          4        5       43       97
+
+Overall Accuracy 89: 0.6957
+Class Mayo 0 - Correct: 797, Total: 1036, Accuracy: 0.7693
+Class Mayo 1 - Correct: 326, Total: 518, Accuracy: 0.6293
+Class Mayo 2 - Correct: 103, Total: 216, Accuracy: 0.4769
+Class Mayo 3 - Correct: 109, Total: 149, Accuracy: 0.7315
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        797      192       35       12
+Mayo 1        117      326       56       19
+Mayo 2         16       56      103       41
+Mayo 3          3        4       33      109
+
+Starting training for 200 epochs
+Epoch 1/200 | Train Loss: 1.4256 | Train Acc: 0.3971 | Val Loss: 1.2306 | Val Acc: 0.5409
+Epoch 2/200 | Train Loss: 1.2947 | Train Acc: 0.4795 | Val Loss: 1.2076 | Val Acc: 0.5560
+Epoch 3/200 | Train Loss: 1.2520 | Train Acc: 0.4998 | Val Loss: 1.2667 | Val Acc: 0.5284
+Epoch 4/200 | Train Loss: 1.1862 | Train Acc: 0.5391 | Val Loss: 1.3397 | Val Acc: 0.4528
+Epoch 5/200 | Train Loss: 1.1026 | Train Acc: 0.5758 | Val Loss: 1.0093 | Val Acc: 0.6217
+Epoch 6/200 | Train Loss: 1.0743 | Train Acc: 0.5902 | Val Loss: 1.1743 | Val Acc: 0.5597
+Epoch 7/200 | Train Loss: 1.0256 | Train Acc: 0.6083 | Val Loss: 1.1826 | Val Acc: 0.5706
+Epoch 8/200 | Train Loss: 1.0155 | Train Acc: 0.6100 | Val Loss: 0.9447 | Val Acc: 0.6425
+Epoch 9/200 | Train Loss: 0.9911 | Train Acc: 0.6181 | Val Loss: 1.0580 | Val Acc: 0.6175
+Epoch 10/200 | Train Loss: 0.9805 | Train Acc: 0.6205 | Val Loss: 1.0771 | Val Acc: 0.5925
+Epoch 11/200 | Train Loss: 0.9611 | Train Acc: 0.6312 | Val Loss: 0.9367 | Val Acc: 0.6384
+Epoch 12/200 | Train Loss: 0.9546 | Train Acc: 0.6299 | Val Loss: 0.8980 | Val Acc: 0.6514
+Epoch 13/200 | Train Loss: 0.9366 | Train Acc: 0.6371 | Val Loss: 0.9903 | Val Acc: 0.6201
+Epoch 14/200 | Train Loss: 0.9147 | Train Acc: 0.6474 | Val Loss: 0.9740 | Val Acc: 0.6316
+Epoch 15/200 | Train Loss: 0.9120 | Train Acc: 0.6489 | Val Loss: 0.9065 | Val Acc: 0.6550
+Epoch 16/200 | Train Loss: 0.8919 | Train Acc: 0.6570 | Val Loss: 0.9136 | Val Acc: 0.6545
+Epoch 17/200 | Train Loss: 0.8813 | Train Acc: 0.6648 | Val Loss: 0.8944 | Val Acc: 0.6587
+Epoch 18/200 | Train Loss: 0.8796 | Train Acc: 0.6648 | Val Loss: 0.8311 | Val Acc: 0.6863
+Epoch 19/200 | Train Loss: 0.8575 | Train Acc: 0.6713 | Val Loss: 1.1024 | Val Acc: 0.6008
+Epoch 20/200 | Train Loss: 0.8560 | Train Acc: 0.6722 | Val Loss: 0.8682 | Val Acc: 0.6665
+Epoch 21/200 | Train Loss: 0.8398 | Train Acc: 0.6798 | Val Loss: 0.9005 | Val Acc: 0.6769
+Epoch 22/200 | Train Loss: 0.8288 | Train Acc: 0.6800 | Val Loss: 0.9054 | Val Acc: 0.6441
+Epoch 23/200 | Train Loss: 0.8223 | Train Acc: 0.6820 | Val Loss: 0.8493 | Val Acc: 0.6707
+Epoch 24/200 | Train Loss: 0.8032 | Train Acc: 0.6917 | Val Loss: 0.9250 | Val Acc: 0.6639
+Epoch 25/200 | Train Loss: 0.8077 | Train Acc: 0.6896 | Val Loss: 0.8006 | Val Acc: 0.6967
+Epoch 26/200 | Train Loss: 0.7899 | Train Acc: 0.6961 | Val Loss: 0.9734 | Val Acc: 0.6566
+Epoch 27/200 | Train Loss: 0.7751 | Train Acc: 0.7053 | Val Loss: 0.9250 | Val Acc: 0.6618
+Epoch 28/200 | Train Loss: 0.7734 | Train Acc: 0.7037 | Val Loss: 0.8334 | Val Acc: 0.6946
+Epoch 29/200 | Train Loss: 0.7615 | Train Acc: 0.7099 | Val Loss: 0.9439 | Val Acc: 0.6639
+Epoch 30/200 | Train Loss: 0.7568 | Train Acc: 0.7130 | Val Loss: 0.8300 | Val Acc: 0.6873
+Epoch 31/200 | Train Loss: 0.7352 | Train Acc: 0.7220 | Val Loss: 0.8266 | Val Acc: 0.6905
+Epoch 32/200 | Train Loss: 0.7465 | Train Acc: 0.7169 | Val Loss: 0.8998 | Val Acc: 0.6561
+Epoch 33/200 | Train Loss: 0.7305 | Train Acc: 0.7265 | Val Loss: 0.8513 | Val Acc: 0.6837
+Epoch 34/200 | Train Loss: 0.7185 | Train Acc: 0.7296 | Val Loss: 0.9006 | Val Acc: 0.6696
+Epoch 35/200 | Train Loss: 0.7038 | Train Acc: 0.7326 | Val Loss: 1.0081 | Val Acc: 0.6274
+Epoch 36/200 | Train Loss: 0.7048 | Train Acc: 0.7330 | Val Loss: 1.0019 | Val Acc: 0.6477
+Epoch 37/200 | Train Loss: 0.6972 | Train Acc: 0.7373 | Val Loss: 0.8943 | Val Acc: 0.6655
+Epoch 38/200 | Train Loss: 0.6777 | Train Acc: 0.7453 | Val Loss: 0.8990 | Val Acc: 0.6608
+Epoch 39/200 | Train Loss: 0.6781 | Train Acc: 0.7432 | Val Loss: 0.9256 | Val Acc: 0.6748
+Epoch 40/200 | Train Loss: 0.6663 | Train Acc: 0.7490 | Val Loss: 0.9411 | Val Acc: 0.6524
+Epoch 41/200 | Train Loss: 0.6625 | Train Acc: 0.7509 | Val Loss: 0.8720 | Val Acc: 0.6847
+Epoch 42/200 | Train Loss: 0.6516 | Train Acc: 0.7544 | Val Loss: 0.8733 | Val Acc: 0.6941
+Epoch 43/200 | Train Loss: 0.6408 | Train Acc: 0.7605 | Val Loss: 0.8714 | Val Acc: 0.6863
+Epoch 44/200 | Train Loss: 0.6409 | Train Acc: 0.7605 | Val Loss: 0.8531 | Val Acc: 0.6967
+Epoch 45/200 | Train Loss: 0.6239 | Train Acc: 0.7696 | Val Loss: 0.8982 | Val Acc: 0.6821
+Epoch 46/200 | Train Loss: 0.6295 | Train Acc: 0.7660 | Val Loss: 0.8453 | Val Acc: 0.6962
+Epoch 47/200 | Train Loss: 0.6076 | Train Acc: 0.7724 | Val Loss: 0.8952 | Val Acc: 0.6941
+Epoch 48/200 | Train Loss: 0.6060 | Train Acc: 0.7728 | Val Loss: 0.8616 | Val Acc: 0.6983
+Epoch 49/200 | Train Loss: 0.5914 | Train Acc: 0.7795 | Val Loss: 0.9149 | Val Acc: 0.6832
+Epoch 50/200 | Train Loss: 0.5897 | Train Acc: 0.7819 | Val Loss: 0.9657 | Val Acc: 0.6707
+Epoch 51/200 | Train Loss: 0.5805 | Train Acc: 0.7837 | Val Loss: 0.8561 | Val Acc: 0.6894
+Epoch 52/200 | Train Loss: 0.5677 | Train Acc: 0.7906 | Val Loss: 0.9720 | Val Acc: 0.6670
+Epoch 53/200 | Train Loss: 0.5697 | Train Acc: 0.7880 | Val Loss: 0.9178 | Val Acc: 0.6769
+Epoch 54/200 | Train Loss: 0.5537 | Train Acc: 0.7926 | Val Loss: 0.9663 | Val Acc: 0.6858
+Epoch 55/200 | Train Loss: 0.5549 | Train Acc: 0.7949 | Val Loss: 0.9104 | Val Acc: 0.6826
+Epoch 56/200 | Train Loss: 0.5371 | Train Acc: 0.8009 | Val Loss: 0.8981 | Val Acc: 0.6957
+Epoch 57/200 | Train Loss: 0.5344 | Train Acc: 0.8035 | Val Loss: 0.9323 | Val Acc: 0.6821
+Epoch 58/200 | Train Loss: 0.5305 | Train Acc: 0.8032 | Val Loss: 0.9062 | Val Acc: 0.6837
+Epoch 59/200 | Train Loss: 0.5226 | Train Acc: 0.8053 | Val Loss: 0.9253 | Val Acc: 0.6853
+Epoch 60/200 | Train Loss: 0.5155 | Train Acc: 0.8095 | Val Loss: 0.9067 | Val Acc: 0.6905
+Epoch 61/200 | Train Loss: 0.5012 | Train Acc: 0.8133 | Val Loss: 0.8988 | Val Acc: 0.6941
+Epoch 62/200 | Train Loss: 0.4988 | Train Acc: 0.8164 | Val Loss: 0.9802 | Val Acc: 0.6884
+Epoch 63/200 | Train Loss: 0.5033 | Train Acc: 0.8154 | Val Loss: 0.8978 | Val Acc: 0.7103
+Epoch 64/200 | Train Loss: 0.4835 | Train Acc: 0.8269 | Val Loss: 0.9944 | Val Acc: 0.6738
+Epoch 65/200 | Train Loss: 0.4817 | Train Acc: 0.8246 | Val Loss: 1.0220 | Val Acc: 0.6769
+Epoch 66/200 | Train Loss: 0.4754 | Train Acc: 0.8255 | Val Loss: 0.9597 | Val Acc: 0.6847
+Epoch 67/200 | Train Loss: 0.4670 | Train Acc: 0.8303 | Val Loss: 0.9375 | Val Acc: 0.6972
+Epoch 68/200 | Train Loss: 0.4561 | Train Acc: 0.8335 | Val Loss: 0.9297 | Val Acc: 0.7144
+Epoch 69/200 | Train Loss: 0.4501 | Train Acc: 0.8392 | Val Loss: 0.9794 | Val Acc: 0.6978
+Epoch 70/200 | Train Loss: 0.4502 | Train Acc: 0.8359 | Val Loss: 0.9259 | Val Acc: 0.7118
+Epoch 71/200 | Train Loss: 0.4398 | Train Acc: 0.8410 | Val Loss: 0.9397 | Val Acc: 0.6915
+Epoch 72/200 | Train Loss: 0.4362 | Train Acc: 0.8400 | Val Loss: 0.9901 | Val Acc: 0.6936
+Epoch 73/200 | Train Loss: 0.4274 | Train Acc: 0.8476 | Val Loss: 0.9592 | Val Acc: 0.6983
+Epoch 74/200 | Train Loss: 0.4205 | Train Acc: 0.8480 | Val Loss: 1.0038 | Val Acc: 0.6806
+Epoch 75/200 | Train Loss: 0.4154 | Train Acc: 0.8467 | Val Loss: 0.9756 | Val Acc: 0.7035
+Epoch 76/200 | Train Loss: 0.4081 | Train Acc: 0.8513 | Val Loss: 0.9956 | Val Acc: 0.6993
+Epoch 77/200 | Train Loss: 0.4030 | Train Acc: 0.8538 | Val Loss: 0.9873 | Val Acc: 0.6936
+Epoch 78/200 | Train Loss: 0.4044 | Train Acc: 0.8533 | Val Loss: 1.0019 | Val Acc: 0.6936
+Epoch 79/200 | Train Loss: 0.4065 | Train Acc: 0.8534 | Val Loss: 1.0139 | Val Acc: 0.6858
+Epoch 80/200 | Train Loss: 0.3966 | Train Acc: 0.8572 | Val Loss: 1.0274 | Val Acc: 0.6941
+Epoch 81/200 | Train Loss: 0.3889 | Train Acc: 0.8596 | Val Loss: 1.1007 | Val Acc: 0.6691
+Epoch 82/200 | Train Loss: 0.3844 | Train Acc: 0.8616 | Val Loss: 1.0052 | Val Acc: 0.7066
+Epoch 83/200 | Train Loss: 0.3879 | Train Acc: 0.8606 | Val Loss: 1.1095 | Val Acc: 0.6691
+Epoch 84/200 | Train Loss: 0.3695 | Train Acc: 0.8649 | Val Loss: 1.0513 | Val Acc: 0.6993
+Epoch 85/200 | Train Loss: 0.3689 | Train Acc: 0.8669 | Val Loss: 1.0728 | Val Acc: 0.6842
+Epoch 86/200 | Train Loss: 0.3621 | Train Acc: 0.8694 | Val Loss: 1.0859 | Val Acc: 0.6769
+Epoch 87/200 | Train Loss: 0.3600 | Train Acc: 0.8722 | Val Loss: 0.9811 | Val Acc: 0.7082
+Epoch 88/200 | Train Loss: 0.3401 | Train Acc: 0.8749 | Val Loss: 1.0815 | Val Acc: 0.6899
+Epoch 89/200 | Train Loss: 0.3578 | Train Acc: 0.8709 | Val Loss: 1.0491 | Val Acc: 0.6967
+Overall Accuracy 90: 0.6993
+Class Mayo 0 - Correct: 794, Total: 1036, Accuracy: 0.7664
+Class Mayo 1 - Correct: 335, Total: 518, Accuracy: 0.6467
+Class Mayo 2 - Correct: 109, Total: 216, Accuracy: 0.5046
+Class Mayo 3 - Correct: 104, Total: 149, Accuracy: 0.6980
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        794      205       27       10
+Mayo 1        115      335       53       15
+Mayo 2          9       64      109       34
+Mayo 3          4        5       36      104
+
+Overall Accuracy 91: 0.6931
+Class Mayo 0 - Correct: 791, Total: 1036, Accuracy: 0.7635
+Class Mayo 1 - Correct: 337, Total: 518, Accuracy: 0.6506
+Class Mayo 2 - Correct: 95, Total: 216, Accuracy: 0.4398
+Class Mayo 3 - Correct: 107, Total: 149, Accuracy: 0.7181
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        791      213       18       14
+Mayo 1        118      337       46       17
+Mayo 2         20       56       95       45
+Mayo 3          3        3       36      107
+
+Overall Accuracy 92: 0.6915
+Class Mayo 0 - Correct: 816, Total: 1036, Accuracy: 0.7876
+Class Mayo 1 - Correct: 315, Total: 518, Accuracy: 0.6081
+Class Mayo 2 - Correct: 99, Total: 216, Accuracy: 0.4583
+Class Mayo 3 - Correct: 97, Total: 149, Accuracy: 0.6510
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        816      186       18       16
+Mayo 1        141      315       48       14
+Mayo 2         26       54       99       37
+Mayo 3          8        4       40       97
+
+Overall Accuracy 93: 0.7077
+Class Mayo 0 - Correct: 851, Total: 1036, Accuracy: 0.8214
+Class Mayo 1 - Correct: 336, Total: 518, Accuracy: 0.6486
+Class Mayo 2 - Correct: 70, Total: 216, Accuracy: 0.3241
+Class Mayo 3 - Correct: 101, Total: 149, Accuracy: 0.6779
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        851      170        8        7
+Mayo 1        146      336       25       11
+Mayo 2         26       72       70       48
+Mayo 3          9        6       33      101
+
+Overall Accuracy 94: 0.6863
+Class Mayo 0 - Correct: 801, Total: 1036, Accuracy: 0.7732
+Class Mayo 1 - Correct: 324, Total: 518, Accuracy: 0.6255
+Class Mayo 2 - Correct: 104, Total: 216, Accuracy: 0.4815
+Class Mayo 3 - Correct: 88, Total: 149, Accuracy: 0.5906
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        801      205       23        7
+Mayo 1        129      324       52       13
+Mayo 2         22       62      104       28
+Mayo 3          8        8       45       88
+
+Overall Accuracy 95: 0.6795
+Class Mayo 0 - Correct: 731, Total: 1036, Accuracy: 0.7056
+Class Mayo 1 - Correct: 383, Total: 518, Accuracy: 0.7394
+Class Mayo 2 - Correct: 86, Total: 216, Accuracy: 0.3981
+Class Mayo 3 - Correct: 104, Total: 149, Accuracy: 0.6980
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        731      266       26       13
+Mayo 1         72      383       44       19
+Mayo 2         13       77       86       40
+Mayo 3          2        9       34      104
+
+Overall Accuracy 96: 0.6858
+Class Mayo 0 - Correct: 820, Total: 1036, Accuracy: 0.7915
+Class Mayo 1 - Correct: 305, Total: 518, Accuracy: 0.5888
+Class Mayo 2 - Correct: 83, Total: 216, Accuracy: 0.3843
+Class Mayo 3 - Correct: 108, Total: 149, Accuracy: 0.7248
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        820      187       18       11
+Mayo 1        136      305       52       25
+Mayo 2         29       52       83       52
+Mayo 3          5        4       32      108
+
+Overall Accuracy 97: 0.6941
+Class Mayo 0 - Correct: 806, Total: 1036, Accuracy: 0.7780
+Class Mayo 1 - Correct: 334, Total: 518, Accuracy: 0.6448
+Class Mayo 2 - Correct: 88, Total: 216, Accuracy: 0.4074
+Class Mayo 3 - Correct: 104, Total: 149, Accuracy: 0.6980
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        806      200       19       11
+Mayo 1        132      334       40       12
+Mayo 2         21       67       88       40
+Mayo 3          3        6       36      104
+
+Overall Accuracy 98: 0.6717
+Class Mayo 0 - Correct: 712, Total: 1036, Accuracy: 0.6873
+Class Mayo 1 - Correct: 359, Total: 518, Accuracy: 0.6931
+Class Mayo 2 - Correct: 114, Total: 216, Accuracy: 0.5278
+Class Mayo 3 - Correct: 104, Total: 149, Accuracy: 0.6980
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        712      281       32       11
+Mayo 1         90      359       61        8
+Mayo 2          9       60      114       33
+Mayo 3          4        8       33      104
+
+Overall Accuracy 99: 0.6915
+Class Mayo 0 - Correct: 814, Total: 1036, Accuracy: 0.7857
+Class Mayo 1 - Correct: 335, Total: 518, Accuracy: 0.6467
+Class Mayo 2 - Correct: 76, Total: 216, Accuracy: 0.3519
+Class Mayo 3 - Correct: 102, Total: 149, Accuracy: 0.6846
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        814      203       15        4
+Mayo 1        141      335       30       12
+Mayo 2         24       76       76       40
+Mayo 3          6        8       33      102
+
+Overall Accuracy 100: 0.7014
+Class Mayo 0 - Correct: 875, Total: 1036, Accuracy: 0.8446
+Class Mayo 1 - Correct: 291, Total: 518, Accuracy: 0.5618
+Class Mayo 2 - Correct: 77, Total: 216, Accuracy: 0.3565
+Class Mayo 3 - Correct: 103, Total: 149, Accuracy: 0.6913
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        875      152        7        2
+Mayo 1        179      291       41        7
+Mayo 2         29       76       77       34
+Mayo 3          6       11       29      103
+
+Overall Accuracy 101: 0.6863
+Class Mayo 0 - Correct: 795, Total: 1036, Accuracy: 0.7674
+Class Mayo 1 - Correct: 328, Total: 518, Accuracy: 0.6332
+Class Mayo 2 - Correct: 85, Total: 216, Accuracy: 0.3935
+Class Mayo 3 - Correct: 109, Total: 149, Accuracy: 0.7315
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        795      209       19       13
+Mayo 1        121      328       55       14
+Mayo 2         20       68       85       43
+Mayo 3          4        9       27      109
+
+Overall Accuracy 102: 0.6972
+Class Mayo 0 - Correct: 815, Total: 1036, Accuracy: 0.7867
+Class Mayo 1 - Correct: 313, Total: 518, Accuracy: 0.6042
+Class Mayo 2 - Correct: 100, Total: 216, Accuracy: 0.4630
+Class Mayo 3 - Correct: 110, Total: 149, Accuracy: 0.7383
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        815      184       19       18
+Mayo 1        149      313       42       14
+Mayo 2         18       52      100       46
+Mayo 3          2        7       30      110
+
+Overall Accuracy 103: 0.6863
+Class Mayo 0 - Correct: 795, Total: 1036, Accuracy: 0.7674
+Class Mayo 1 - Correct: 308, Total: 518, Accuracy: 0.5946
+Class Mayo 2 - Correct: 98, Total: 216, Accuracy: 0.4537
+Class Mayo 3 - Correct: 116, Total: 149, Accuracy: 0.7785
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        795      189       35       17
+Mayo 1        127      308       67       16
+Mayo 2         18       49       98       51
+Mayo 3          5        2       26      116
+
+Overall Accuracy 104: 0.6879
+Class Mayo 0 - Correct: 770, Total: 1036, Accuracy: 0.7432
+Class Mayo 1 - Correct: 339, Total: 518, Accuracy: 0.6544
+Class Mayo 2 - Correct: 102, Total: 216, Accuracy: 0.4722
+Class Mayo 3 - Correct: 109, Total: 149, Accuracy: 0.7315
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        770      231       22       13
+Mayo 1        110      339       49       20
+Mayo 2         14       58      102       42
+Mayo 3          3        3       34      109
+
+Overall Accuracy 105: 0.7004
+Class Mayo 0 - Correct: 834, Total: 1036, Accuracy: 0.8050
+Class Mayo 1 - Correct: 304, Total: 518, Accuracy: 0.5869
+Class Mayo 2 - Correct: 98, Total: 216, Accuracy: 0.4537
+Class Mayo 3 - Correct: 108, Total: 149, Accuracy: 0.7248
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        834      178       16        8
+Mayo 1        154      304       49       11
+Mayo 2         26       52       98       40
+Mayo 3          6        6       29      108
+
+Overall Accuracy 106: 0.6826
+Class Mayo 0 - Correct: 768, Total: 1036, Accuracy: 0.7413
+Class Mayo 1 - Correct: 332, Total: 518, Accuracy: 0.6409
+Class Mayo 2 - Correct: 105, Total: 216, Accuracy: 0.4861
+Class Mayo 3 - Correct: 105, Total: 149, Accuracy: 0.7047
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        768      224       29       15
+Mayo 1        116      332       50       20
+Mayo 2         13       51      105       47
+Mayo 3          2        4       38      105
+
+Overall Accuracy 107: 0.7024
+Class Mayo 0 - Correct: 807, Total: 1036, Accuracy: 0.7790
+Class Mayo 1 - Correct: 345, Total: 518, Accuracy: 0.6660
+Class Mayo 2 - Correct: 89, Total: 216, Accuracy: 0.4120
+Class Mayo 3 - Correct: 107, Total: 149, Accuracy: 0.7181
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        807      202       16       11
+Mayo 1        134      345       24       15
+Mayo 2         23       62       89       42
+Mayo 3          6        4       32      107
+
+Overall Accuracy 108: 0.6837
+Class Mayo 0 - Correct: 789, Total: 1036, Accuracy: 0.7616
+Class Mayo 1 - Correct: 315, Total: 518, Accuracy: 0.6081
+Class Mayo 2 - Correct: 98, Total: 216, Accuracy: 0.4537
+Class Mayo 3 - Correct: 110, Total: 149, Accuracy: 0.7383
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        789      208       29       10
+Mayo 1        129      315       60       14
+Mayo 2         16       60       98       42
+Mayo 3          3        6       30      110
+
+Overall Accuracy 109: 0.6920
+Class Mayo 0 - Correct: 799, Total: 1036, Accuracy: 0.7712
+Class Mayo 1 - Correct: 329, Total: 518, Accuracy: 0.6351
+Class Mayo 2 - Correct: 93, Total: 216, Accuracy: 0.4306
+Class Mayo 3 - Correct: 107, Total: 149, Accuracy: 0.7181
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        799      209       17       11
+Mayo 1        128      329       44       17
+Mayo 2         23       57       93       43
+Mayo 3          5        6       31      107
+
+Overall Accuracy 110: 0.6941
+Class Mayo 0 - Correct: 853, Total: 1036, Accuracy: 0.8234
+Class Mayo 1 - Correct: 276, Total: 518, Accuracy: 0.5328
+Class Mayo 2 - Correct: 84, Total: 216, Accuracy: 0.3889
+Class Mayo 3 - Correct: 119, Total: 149, Accuracy: 0.7987
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        853      151       17       15
+Mayo 1        172      276       47       23
+Mayo 2         28       45       84       59
+Mayo 3          7        0       23      119
+
+Overall Accuracy 111: 0.6920
+Class Mayo 0 - Correct: 805, Total: 1036, Accuracy: 0.7770
+Class Mayo 1 - Correct: 341, Total: 518, Accuracy: 0.6583
+Class Mayo 2 - Correct: 87, Total: 216, Accuracy: 0.4028
+Class Mayo 3 - Correct: 95, Total: 149, Accuracy: 0.6376
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        805      214       12        5
+Mayo 1        129      341       38       10
+Mayo 2         26       76       87       27
+Mayo 3          8        6       40       95
+
+Overall Accuracy 112: 0.7124
+Class Mayo 0 - Correct: 848, Total: 1036, Accuracy: 0.8185
+Class Mayo 1 - Correct: 324, Total: 518, Accuracy: 0.6255
+Class Mayo 2 - Correct: 89, Total: 216, Accuracy: 0.4120
+Class Mayo 3 - Correct: 106, Total: 149, Accuracy: 0.7114
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        848      172       10        6
+Mayo 1        159      324       23       12
+Mayo 2         26       75       89       26
+Mayo 3          7        8       28      106
+
+Overall Accuracy 113: 0.6790
+Class Mayo 0 - Correct: 747, Total: 1036, Accuracy: 0.7210
+Class Mayo 1 - Correct: 344, Total: 518, Accuracy: 0.6641
+Class Mayo 2 - Correct: 104, Total: 216, Accuracy: 0.4815
+Class Mayo 3 - Correct: 108, Total: 149, Accuracy: 0.7248
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        747      260       20        9
+Mayo 1         98      344       62       14
+Mayo 2         13       59      104       40
+Mayo 3          4        4       33      108
+
+Overall Accuracy 114: 0.6847
+Class Mayo 0 - Correct: 796, Total: 1036, Accuracy: 0.7683
+Class Mayo 1 - Correct: 329, Total: 518, Accuracy: 0.6351
+Class Mayo 2 - Correct: 77, Total: 216, Accuracy: 0.3565
+Class Mayo 3 - Correct: 112, Total: 149, Accuracy: 0.7517
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        796      219       14        7
+Mayo 1        144      329       33       12
+Mayo 2         25       75       77       39
+Mayo 3          6        6       25      112
+
+Overall Accuracy 115: 0.6655
+Class Mayo 0 - Correct: 741, Total: 1036, Accuracy: 0.7153
+Class Mayo 1 - Correct: 337, Total: 518, Accuracy: 0.6506
+Class Mayo 2 - Correct: 98, Total: 216, Accuracy: 0.4537
+Class Mayo 3 - Correct: 101, Total: 149, Accuracy: 0.6779
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        741      254       30       11
+Mayo 1        123      337       45       13
+Mayo 2         14       66       98       38
+Mayo 3          5        6       37      101
+
+Overall Accuracy 116: 0.7030
+Class Mayo 0 - Correct: 821, Total: 1036, Accuracy: 0.7925
+Class Mayo 1 - Correct: 332, Total: 518, Accuracy: 0.6409
+Class Mayo 2 - Correct: 89, Total: 216, Accuracy: 0.4120
+Class Mayo 3 - Correct: 107, Total: 149, Accuracy: 0.7181
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        821      193       15        7
+Mayo 1        142      332       36        8
+Mayo 2         23       70       89       34
+Mayo 3          6        8       28      107
+
+Overall Accuracy 117: 0.6920
+Class Mayo 0 - Correct: 790, Total: 1036, Accuracy: 0.7625
+Class Mayo 1 - Correct: 330, Total: 518, Accuracy: 0.6371
+Class Mayo 2 - Correct: 107, Total: 216, Accuracy: 0.4954
+Class Mayo 3 - Correct: 101, Total: 149, Accuracy: 0.6779
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        790      212       25        9
+Mayo 1        124      330       52       12
+Mayo 2         15       57      107       37
+Mayo 3          2        3       43      101
+
+Overall Accuracy 118: 0.6816
+Class Mayo 0 - Correct: 793, Total: 1036, Accuracy: 0.7654
+Class Mayo 1 - Correct: 326, Total: 518, Accuracy: 0.6293
+Class Mayo 2 - Correct: 98, Total: 216, Accuracy: 0.4537
+Class Mayo 3 - Correct: 91, Total: 149, Accuracy: 0.6107
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        793      215       23        5
+Mayo 1        133      326       51        8
+Mayo 2         25       61       98       32
+Mayo 3          7        7       44       91
+
+Overall Accuracy 119: 0.6821
+Class Mayo 0 - Correct: 807, Total: 1036, Accuracy: 0.7790
+Class Mayo 1 - Correct: 318, Total: 518, Accuracy: 0.6139
+Class Mayo 2 - Correct: 83, Total: 216, Accuracy: 0.3843
+Class Mayo 3 - Correct: 101, Total: 149, Accuracy: 0.6779
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        807      206       17        6
+Mayo 1        148      318       38       14
+Mayo 2         26       65       83       42
+Mayo 3          5        6       37      101
+
+Overall Accuracy 120: 0.6889
+Class Mayo 0 - Correct: 801, Total: 1036, Accuracy: 0.7732
+Class Mayo 1 - Correct: 332, Total: 518, Accuracy: 0.6409
+Class Mayo 2 - Correct: 96, Total: 216, Accuracy: 0.4444
+Class Mayo 3 - Correct: 93, Total: 149, Accuracy: 0.6242
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        801      208       21        6
+Mayo 1        131      332       44       11
+Mayo 2         23       67       96       30
+Mayo 3          6        6       44       93
+
+Overall Accuracy 121: 0.6952
+Class Mayo 0 - Correct: 803, Total: 1036, Accuracy: 0.7751
+Class Mayo 1 - Correct: 340, Total: 518, Accuracy: 0.6564
+Class Mayo 2 - Correct: 90, Total: 216, Accuracy: 0.4167
+Class Mayo 3 - Correct: 101, Total: 149, Accuracy: 0.6779
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        803      204       21        8
+Mayo 1        127      340       40       11
+Mayo 2         16       74       90       36
+Mayo 3          7        8       33      101
+
+Overall Accuracy 122: 0.6941
+Class Mayo 0 - Correct: 825, Total: 1036, Accuracy: 0.7963
+Class Mayo 1 - Correct: 311, Total: 518, Accuracy: 0.6004
+Class Mayo 2 - Correct: 92, Total: 216, Accuracy: 0.4259
+Class Mayo 3 - Correct: 104, Total: 149, Accuracy: 0.6980
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        825      188       17        6
+Mayo 1        151      311       44       12
+Mayo 2         25       66       92       33
+Mayo 3         10        6       29      104
+
+Overall Accuracy 123: 0.6785
+Class Mayo 0 - Correct: 802, Total: 1036, Accuracy: 0.7741
+Class Mayo 1 - Correct: 306, Total: 518, Accuracy: 0.5907
+Class Mayo 2 - Correct: 84, Total: 216, Accuracy: 0.3889
+Class Mayo 3 - Correct: 110, Total: 149, Accuracy: 0.7383
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        802      201       16       17
+Mayo 1        148      306       40       24
+Mayo 2         20       65       84       47
+Mayo 3          5        4       30      110
+
+Overall Accuracy 124: 0.6769
+Class Mayo 0 - Correct: 780, Total: 1036, Accuracy: 0.7529
+Class Mayo 1 - Correct: 320, Total: 518, Accuracy: 0.6178
+Class Mayo 2 - Correct: 89, Total: 216, Accuracy: 0.4120
+Class Mayo 3 - Correct: 110, Total: 149, Accuracy: 0.7383
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        780      234       10       12
+Mayo 1        140      320       40       18
+Mayo 2         16       69       89       42
+Mayo 3          5        9       25      110
+
+Overall Accuracy 125: 0.6952
+Class Mayo 0 - Correct: 816, Total: 1036, Accuracy: 0.7876
+Class Mayo 1 - Correct: 302, Total: 518, Accuracy: 0.5830
+Class Mayo 2 - Correct: 102, Total: 216, Accuracy: 0.4722
+Class Mayo 3 - Correct: 114, Total: 149, Accuracy: 0.7651
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        816      177       26       17
+Mayo 1        148      302       51       17
+Mayo 2         24       51      102       39
+Mayo 3          3        3       29      114
+
+Overall Accuracy 126: 0.6993
+Class Mayo 0 - Correct: 832, Total: 1036, Accuracy: 0.8031
+Class Mayo 1 - Correct: 311, Total: 518, Accuracy: 0.6004
+Class Mayo 2 - Correct: 92, Total: 216, Accuracy: 0.4259
+Class Mayo 3 - Correct: 107, Total: 149, Accuracy: 0.7181
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        832      183       13        8
+Mayo 1        156      311       39       12
+Mayo 2         27       62       92       35
+Mayo 3          4        5       33      107
+
+Overall Accuracy 127: 0.6978
+Class Mayo 0 - Correct: 827, Total: 1036, Accuracy: 0.7983
+Class Mayo 1 - Correct: 309, Total: 518, Accuracy: 0.5965
+Class Mayo 2 - Correct: 99, Total: 216, Accuracy: 0.4583
+Class Mayo 3 - Correct: 104, Total: 149, Accuracy: 0.6980
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        827      184       13       12
+Mayo 1        153      309       45       11
+Mayo 2         17       61       99       39
+Mayo 3          9        4       32      104
+
+Overall Accuracy 128: 0.6873
+Class Mayo 0 - Correct: 803, Total: 1036, Accuracy: 0.7751
+Class Mayo 1 - Correct: 309, Total: 518, Accuracy: 0.5965
+Class Mayo 2 - Correct: 100, Total: 216, Accuracy: 0.4630
+Class Mayo 3 - Correct: 107, Total: 149, Accuracy: 0.7181
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        803      199       23       11
+Mayo 1        146      309       50       13
+Mayo 2         20       57      100       39
+Mayo 3          4        9       29      107
+
+Overall Accuracy 129: 0.7071
+Class Mayo 0 - Correct: 836, Total: 1036, Accuracy: 0.8069
+Class Mayo 1 - Correct: 319, Total: 518, Accuracy: 0.6158
+Class Mayo 2 - Correct: 95, Total: 216, Accuracy: 0.4398
+Class Mayo 3 - Correct: 107, Total: 149, Accuracy: 0.7181
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        836      171       20        9
+Mayo 1        151      319       32       16
+Mayo 2         23       59       95       39
+Mayo 3          5        8       29      107
+
+Overall Accuracy 130: 0.6957
+Class Mayo 0 - Correct: 827, Total: 1036, Accuracy: 0.7983
+Class Mayo 1 - Correct: 315, Total: 518, Accuracy: 0.6081
+Class Mayo 2 - Correct: 87, Total: 216, Accuracy: 0.4028
+Class Mayo 3 - Correct: 106, Total: 149, Accuracy: 0.7114
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        827      186       13       10
+Mayo 1        153      315       32       18
+Mayo 2         20       58       87       51
+Mayo 3          5        8       30      106
+
+Overall Accuracy 131: 0.6582
+Class Mayo 0 - Correct: 698, Total: 1036, Accuracy: 0.6737
+Class Mayo 1 - Correct: 354, Total: 518, Accuracy: 0.6834
+Class Mayo 2 - Correct: 95, Total: 216, Accuracy: 0.4398
+Class Mayo 3 - Correct: 116, Total: 149, Accuracy: 0.7785
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        698      293       24       21
+Mayo 1         95      354       47       22
+Mayo 2         14       61       95       46
+Mayo 3          3        4       26      116
+
+Overall Accuracy 132: 0.6920
+Class Mayo 0 - Correct: 821, Total: 1036, Accuracy: 0.7925
+Class Mayo 1 - Correct: 316, Total: 518, Accuracy: 0.6100
+Class Mayo 2 - Correct: 92, Total: 216, Accuracy: 0.4259
+Class Mayo 3 - Correct: 99, Total: 149, Accuracy: 0.6644
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        821      185       22        8
+Mayo 1        152      316       39       11
+Mayo 2         19       66       92       39
+Mayo 3          4       11       35       99
+
+Overall Accuracy 133: 0.7014
+Class Mayo 0 - Correct: 843, Total: 1036, Accuracy: 0.8137
+Class Mayo 1 - Correct: 303, Total: 518, Accuracy: 0.5849
+Class Mayo 2 - Correct: 91, Total: 216, Accuracy: 0.4213
+Class Mayo 3 - Correct: 109, Total: 149, Accuracy: 0.7315
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        843      165       19        9
+Mayo 1        166      303       37       12
+Mayo 2         29       58       91       38
+Mayo 3          6        4       30      109
+
+Overall Accuracy 134: 0.6993
+Class Mayo 0 - Correct: 832, Total: 1036, Accuracy: 0.8031
+Class Mayo 1 - Correct: 317, Total: 518, Accuracy: 0.6120
+Class Mayo 2 - Correct: 90, Total: 216, Accuracy: 0.4167
+Class Mayo 3 - Correct: 103, Total: 149, Accuracy: 0.6913
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        832      178       16       10
+Mayo 1        146      317       39       16
+Mayo 2         22       63       90       41
+Mayo 3          7        6       33      103
+
+Overall Accuracy 135: 0.6925
+Class Mayo 0 - Correct: 809, Total: 1036, Accuracy: 0.7809
+Class Mayo 1 - Correct: 329, Total: 518, Accuracy: 0.6351
+Class Mayo 2 - Correct: 84, Total: 216, Accuracy: 0.3889
+Class Mayo 3 - Correct: 107, Total: 149, Accuracy: 0.7181
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        809      202       18        7
+Mayo 1        149      329       30       10
+Mayo 2         22       75       84       35
+Mayo 3          5        7       30      107
+
+Overall Accuracy 136: 0.6941
+Class Mayo 0 - Correct: 822, Total: 1036, Accuracy: 0.7934
+Class Mayo 1 - Correct: 307, Total: 518, Accuracy: 0.5927
+Class Mayo 2 - Correct: 94, Total: 216, Accuracy: 0.4352
+Class Mayo 3 - Correct: 109, Total: 149, Accuracy: 0.7315
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        822      189       20        5
+Mayo 1        152      307       49       10
+Mayo 2         25       57       94       40
+Mayo 3          5        7       28      109
+
+Overall Accuracy 137: 0.6952
+Class Mayo 0 - Correct: 825, Total: 1036, Accuracy: 0.7963
+Class Mayo 1 - Correct: 322, Total: 518, Accuracy: 0.6216
+Class Mayo 2 - Correct: 87, Total: 216, Accuracy: 0.4028
+Class Mayo 3 - Correct: 100, Total: 149, Accuracy: 0.6711
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        825      192       13        6
+Mayo 1        150      322       38        8
+Mayo 2         27       73       87       29
+Mayo 3          8        6       35      100
+
+Overall Accuracy 138: 0.6925
+Class Mayo 0 - Correct: 838, Total: 1036, Accuracy: 0.8089
+Class Mayo 1 - Correct: 295, Total: 518, Accuracy: 0.5695
+Class Mayo 2 - Correct: 89, Total: 216, Accuracy: 0.4120
+Class Mayo 3 - Correct: 107, Total: 149, Accuracy: 0.7181
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        838      176       15        7
+Mayo 1        170      295       36       17
+Mayo 2         26       60       89       41
+Mayo 3          3        4       35      107
+
+Overall Accuracy 139: 0.6905
+Class Mayo 0 - Correct: 812, Total: 1036, Accuracy: 0.7838
+Class Mayo 1 - Correct: 310, Total: 518, Accuracy: 0.5985
+Class Mayo 2 - Correct: 101, Total: 216, Accuracy: 0.4676
+Class Mayo 3 - Correct: 102, Total: 149, Accuracy: 0.6846
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        812      200       18        6
+Mayo 1        155      310       44        9
+Mayo 2         23       60      101       32
+Mayo 3          5        5       37      102
+
+Overall Accuracy 140: 0.6967
+Class Mayo 0 - Correct: 848, Total: 1036, Accuracy: 0.8185
+Class Mayo 1 - Correct: 305, Total: 518, Accuracy: 0.5888
+Class Mayo 2 - Correct: 86, Total: 216, Accuracy: 0.3981
+Class Mayo 3 - Correct: 98, Total: 149, Accuracy: 0.6577
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        848      166       15        7
+Mayo 1        171      305       32       10
+Mayo 2         30       70       86       30
+Mayo 3          9        7       35       98
+
+Overall Accuracy 141: 0.6853
+Class Mayo 0 - Correct: 825, Total: 1036, Accuracy: 0.7963
+Class Mayo 1 - Correct: 296, Total: 518, Accuracy: 0.5714
+Class Mayo 2 - Correct: 91, Total: 216, Accuracy: 0.4213
+Class Mayo 3 - Correct: 103, Total: 149, Accuracy: 0.6913
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        825      187       19        5
+Mayo 1        161      296       44       17
+Mayo 2         23       59       91       43
+Mayo 3          6        7       33      103
+
+Overall Accuracy 142: 0.6998
+Class Mayo 0 - Correct: 847, Total: 1036, Accuracy: 0.8176
+Class Mayo 1 - Correct: 317, Total: 518, Accuracy: 0.6120
+Class Mayo 2 - Correct: 81, Total: 216, Accuracy: 0.3750
+Class Mayo 3 - Correct: 98, Total: 149, Accuracy: 0.6577
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        847      170       15        4
+Mayo 1        167      317       29        5
+Mayo 2         38       64       81       33
+Mayo 3         10        8       33       98
+
+Overall Accuracy 143: 0.6972
+Class Mayo 0 - Correct: 847, Total: 1036, Accuracy: 0.8176
+Class Mayo 1 - Correct: 305, Total: 518, Accuracy: 0.5888
+Class Mayo 2 - Correct: 78, Total: 216, Accuracy: 0.3611
+Class Mayo 3 - Correct: 108, Total: 149, Accuracy: 0.7248
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        847      168       15        6
+Mayo 1        168      305       33       12
+Mayo 2         27       72       78       39
+Mayo 3          8        6       27      108
+
+Overall Accuracy 144: 0.7024
+Class Mayo 0 - Correct: 849, Total: 1036, Accuracy: 0.8195
+Class Mayo 1 - Correct: 293, Total: 518, Accuracy: 0.5656
+Class Mayo 2 - Correct: 102, Total: 216, Accuracy: 0.4722
+Class Mayo 3 - Correct: 104, Total: 149, Accuracy: 0.6980
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        849      156       23        8
+Mayo 1        167      293       49        9
+Mayo 2         26       56      102       32
+Mayo 3          5        4       36      104
+
+Overall Accuracy 145: 0.6978
+Class Mayo 0 - Correct: 830, Total: 1036, Accuracy: 0.8012
+Class Mayo 1 - Correct: 317, Total: 518, Accuracy: 0.6120
+Class Mayo 2 - Correct: 91, Total: 216, Accuracy: 0.4213
+Class Mayo 3 - Correct: 101, Total: 149, Accuracy: 0.6779
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        830      187       12        7
+Mayo 1        162      317       27       12
+Mayo 2         24       68       91       33
+Mayo 3          6        6       36      101
+
+Overall Accuracy 146: 0.7139
+Class Mayo 0 - Correct: 856, Total: 1036, Accuracy: 0.8263
+Class Mayo 1 - Correct: 307, Total: 518, Accuracy: 0.5927
+Class Mayo 2 - Correct: 94, Total: 216, Accuracy: 0.4352
+Class Mayo 3 - Correct: 113, Total: 149, Accuracy: 0.7584
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        856      159       16        5
+Mayo 1        165      307       34       12
+Mayo 2         29       62       94       31
+Mayo 3          5        5       26      113
+
+Overall Accuracy 147: 0.6905
+Class Mayo 0 - Correct: 788, Total: 1036, Accuracy: 0.7606
+Class Mayo 1 - Correct: 338, Total: 518, Accuracy: 0.6525
+Class Mayo 2 - Correct: 90, Total: 216, Accuracy: 0.4167
+Class Mayo 3 - Correct: 109, Total: 149, Accuracy: 0.7315
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        788      216       19       13
+Mayo 1        128      338       35       17
+Mayo 2         25       63       90       38
+Mayo 3          7        6       27      109
+
+Overall Accuracy 148: 0.7004
+Class Mayo 0 - Correct: 860, Total: 1036, Accuracy: 0.8301
+Class Mayo 1 - Correct: 292, Total: 518, Accuracy: 0.5637
+Class Mayo 2 - Correct: 91, Total: 216, Accuracy: 0.4213
+Class Mayo 3 - Correct: 101, Total: 149, Accuracy: 0.6779
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        860      157       16        3
+Mayo 1        180      292       35       11
+Mayo 2         33       54       91       38
+Mayo 3          8        8       32      101
+
+Overall Accuracy 149: 0.6816
+Class Mayo 0 - Correct: 792, Total: 1036, Accuracy: 0.7645
+Class Mayo 1 - Correct: 322, Total: 518, Accuracy: 0.6216
+Class Mayo 2 - Correct: 90, Total: 216, Accuracy: 0.4167
+Class Mayo 3 - Correct: 104, Total: 149, Accuracy: 0.6980
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        792      216       20        8
+Mayo 1        147      322       38       11
+Mayo 2         20       69       90       37
+Mayo 3          4        4       37      104
+
+Overall Accuracy 150: 0.7066
+Class Mayo 0 - Correct: 853, Total: 1036, Accuracy: 0.8234
+Class Mayo 1 - Correct: 312, Total: 518, Accuracy: 0.6023
+Class Mayo 2 - Correct: 85, Total: 216, Accuracy: 0.3935
+Class Mayo 3 - Correct: 106, Total: 149, Accuracy: 0.7114
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        853      168        8        7
+Mayo 1        173      312       24        9
+Mayo 2         29       66       85       36
+Mayo 3          9        7       27      106
+
+Overall Accuracy 151: 0.6832
+Class Mayo 0 - Correct: 822, Total: 1036, Accuracy: 0.7934
+Class Mayo 1 - Correct: 291, Total: 518, Accuracy: 0.5618
+Class Mayo 2 - Correct: 92, Total: 216, Accuracy: 0.4259
+Class Mayo 3 - Correct: 106, Total: 149, Accuracy: 0.7114
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        822      182       22       10
+Mayo 1        173      291       46        8
+Mayo 2         21       62       92       41
+Mayo 3          7        4       32      106
+
+Overall Accuracy 152: 0.6957
+Class Mayo 0 - Correct: 826, Total: 1036, Accuracy: 0.7973
+Class Mayo 1 - Correct: 318, Total: 518, Accuracy: 0.6139
+Class Mayo 2 - Correct: 88, Total: 216, Accuracy: 0.4074
+Class Mayo 3 - Correct: 103, Total: 149, Accuracy: 0.6913
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        826      183       16       11
+Mayo 1        155      318       33       12
+Mayo 2         27       62       88       39
+Mayo 3          7        7       32      103
+
+Overall Accuracy 153: 0.6952
+Class Mayo 0 - Correct: 846, Total: 1036, Accuracy: 0.8166
+Class Mayo 1 - Correct: 299, Total: 518, Accuracy: 0.5772
+Class Mayo 2 - Correct: 80, Total: 216, Accuracy: 0.3704
+Class Mayo 3 - Correct: 109, Total: 149, Accuracy: 0.7315
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        846      168       18        4
+Mayo 1        178      299       28       13
+Mayo 2         26       70       80       40
+Mayo 3          9        6       25      109
+
+Overall Accuracy 154: 0.6795
+Class Mayo 0 - Correct: 804, Total: 1036, Accuracy: 0.7761
+Class Mayo 1 - Correct: 316, Total: 518, Accuracy: 0.6100
+Class Mayo 2 - Correct: 75, Total: 216, Accuracy: 0.3472
+Class Mayo 3 - Correct: 109, Total: 149, Accuracy: 0.7315
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        804      211       15        6
+Mayo 1        157      316       32       13
+Mayo 2         33       66       75       42
+Mayo 3          7        6       27      109
+
+Overall Accuracy 155: 0.6769
+Class Mayo 0 - Correct: 774, Total: 1036, Accuracy: 0.7471
+Class Mayo 1 - Correct: 319, Total: 518, Accuracy: 0.6158
+Class Mayo 2 - Correct: 104, Total: 216, Accuracy: 0.4815
+Class Mayo 3 - Correct: 102, Total: 149, Accuracy: 0.6846
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        774      227       23       12
+Mayo 1        132      319       54       13
+Mayo 2         20       63      104       29
+Mayo 3          2        7       38      102
+
+Overall Accuracy 156: 0.6811
+Class Mayo 0 - Correct: 811, Total: 1036, Accuracy: 0.7828
+Class Mayo 1 - Correct: 293, Total: 518, Accuracy: 0.5656
+Class Mayo 2 - Correct: 96, Total: 216, Accuracy: 0.4444
+Class Mayo 3 - Correct: 107, Total: 149, Accuracy: 0.7181
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        811      196       23        6
+Mayo 1        166      293       48       11
+Mayo 2         26       57       96       37
+Mayo 3          6        5       31      107
+
+Overall Accuracy 157: 0.6972
+Class Mayo 0 - Correct: 847, Total: 1036, Accuracy: 0.8176
+Class Mayo 1 - Correct: 305, Total: 518, Accuracy: 0.5888
+Class Mayo 2 - Correct: 81, Total: 216, Accuracy: 0.3750
+Class Mayo 3 - Correct: 105, Total: 149, Accuracy: 0.7047
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        847      169       11        9
+Mayo 1        166      305       37       10
+Mayo 2         29       67       81       39
+Mayo 3          5        5       34      105
+
+Overall Accuracy 158: 0.6972
+Class Mayo 0 - Correct: 831, Total: 1036, Accuracy: 0.8021
+Class Mayo 1 - Correct: 300, Total: 518, Accuracy: 0.5792
+Class Mayo 2 - Correct: 98, Total: 216, Accuracy: 0.4537
+Class Mayo 3 - Correct: 109, Total: 149, Accuracy: 0.7315
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        831      175       21        9
+Mayo 1        162      300       45       11
+Mayo 2         22       58       98       38
+Mayo 3          5        5       30      109
+
+Overall Accuracy 159: 0.6962
+Class Mayo 0 - Correct: 827, Total: 1036, Accuracy: 0.7983
+Class Mayo 1 - Correct: 315, Total: 518, Accuracy: 0.6081
+Class Mayo 2 - Correct: 90, Total: 216, Accuracy: 0.4167
+Class Mayo 3 - Correct: 104, Total: 149, Accuracy: 0.6980
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        827      173       27        9
+Mayo 1        152      315       37       14
+Mayo 2         27       58       90       41
+Mayo 3          5        5       35      104
+
+Overall Accuracy 160: 0.6905
+Class Mayo 0 - Correct: 825, Total: 1036, Accuracy: 0.7963
+Class Mayo 1 - Correct: 306, Total: 518, Accuracy: 0.5907
+Class Mayo 2 - Correct: 84, Total: 216, Accuracy: 0.3889
+Class Mayo 3 - Correct: 110, Total: 149, Accuracy: 0.7383
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        825      189       17        5
+Mayo 1        160      306       38       14
+Mayo 2         29       62       84       41
+Mayo 3          6        5       28      110
+
+Overall Accuracy 161: 0.6957
+Class Mayo 0 - Correct: 829, Total: 1036, Accuracy: 0.8002
+Class Mayo 1 - Correct: 317, Total: 518, Accuracy: 0.6120
+Class Mayo 2 - Correct: 88, Total: 216, Accuracy: 0.4074
+Class Mayo 3 - Correct: 101, Total: 149, Accuracy: 0.6779
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        829      186       17        4
+Mayo 1        157      317       33       11
+Mayo 2         26       66       88       36
+Mayo 3          7        4       37      101
+
+Overall Accuracy 162: 0.6774
+Class Mayo 0 - Correct: 802, Total: 1036, Accuracy: 0.7741
+Class Mayo 1 - Correct: 304, Total: 518, Accuracy: 0.5869
+Class Mayo 2 - Correct: 87, Total: 216, Accuracy: 0.4028
+Class Mayo 3 - Correct: 107, Total: 149, Accuracy: 0.7181
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        802      206       14       14
+Mayo 1        147      304       52       15
+Mayo 2         19       62       87       48
+Mayo 3          4        6       32      107
+
+Overall Accuracy 163: 0.6910
+Class Mayo 0 - Correct: 837, Total: 1036, Accuracy: 0.8079
+Class Mayo 1 - Correct: 299, Total: 518, Accuracy: 0.5772
+Class Mayo 2 - Correct: 87, Total: 216, Accuracy: 0.4028
+Class Mayo 3 - Correct: 103, Total: 149, Accuracy: 0.6913
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        837      170       21        8
+Mayo 1        175      299       33       11
+Mayo 2         21       69       87       39
+Mayo 3          6        6       34      103
+
+Overall Accuracy 164: 0.6884
+Class Mayo 0 - Correct: 809, Total: 1036, Accuracy: 0.7809
+Class Mayo 1 - Correct: 322, Total: 518, Accuracy: 0.6216
+Class Mayo 2 - Correct: 87, Total: 216, Accuracy: 0.4028
+Class Mayo 3 - Correct: 103, Total: 149, Accuracy: 0.6913
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        809      205       16        6
+Mayo 1        147      322       39       10
+Mayo 2         29       67       87       33
+Mayo 3          6        6       34      103
+
+Overall Accuracy 165: 0.6837
+Class Mayo 0 - Correct: 825, Total: 1036, Accuracy: 0.7963
+Class Mayo 1 - Correct: 298, Total: 518, Accuracy: 0.5753
+Class Mayo 2 - Correct: 83, Total: 216, Accuracy: 0.3843
+Class Mayo 3 - Correct: 106, Total: 149, Accuracy: 0.7114
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        825      184       21        6
+Mayo 1        167      298       39       14
+Mayo 2         23       71       83       39
+Mayo 3          6        6       31      106
+
+Overall Accuracy 166: 0.6931
+Class Mayo 0 - Correct: 833, Total: 1036, Accuracy: 0.8041
+Class Mayo 1 - Correct: 298, Total: 518, Accuracy: 0.5753
+Class Mayo 2 - Correct: 94, Total: 216, Accuracy: 0.4352
+Class Mayo 3 - Correct: 105, Total: 149, Accuracy: 0.7047
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        833      181       18        4
+Mayo 1        165      298       45       10
+Mayo 2         22       65       94       35
+Mayo 3          4        8       32      105
+
+Overall Accuracy 167: 0.7030
+Class Mayo 0 - Correct: 851, Total: 1036, Accuracy: 0.8214
+Class Mayo 1 - Correct: 302, Total: 518, Accuracy: 0.5830
+Class Mayo 2 - Correct: 90, Total: 216, Accuracy: 0.4167
+Class Mayo 3 - Correct: 106, Total: 149, Accuracy: 0.7114
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        851      163       17        5
+Mayo 1        170      302       34       12
+Mayo 2         31       60       90       35
+Mayo 3          5        4       34      106
+
+Overall Accuracy 168: 0.6988
+Class Mayo 0 - Correct: 821, Total: 1036, Accuracy: 0.7925
+Class Mayo 1 - Correct: 317, Total: 518, Accuracy: 0.6120
+Class Mayo 2 - Correct: 94, Total: 216, Accuracy: 0.4352
+Class Mayo 3 - Correct: 109, Total: 149, Accuracy: 0.7315
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        821      199       13        3
+Mayo 1        143      317       45       13
+Mayo 2         23       66       94       33
+Mayo 3          4        4       32      109
+
+Overall Accuracy 169: 0.6925
+Class Mayo 0 - Correct: 808, Total: 1036, Accuracy: 0.7799
+Class Mayo 1 - Correct: 313, Total: 518, Accuracy: 0.6042
+Class Mayo 2 - Correct: 98, Total: 216, Accuracy: 0.4537
+Class Mayo 3 - Correct: 110, Total: 149, Accuracy: 0.7383
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        808      199       18       11
+Mayo 1        151      313       43       11
+Mayo 2         20       63       98       35
+Mayo 3          3        4       32      110
+
+Overall Accuracy 170: 0.6983
+Class Mayo 0 - Correct: 816, Total: 1036, Accuracy: 0.7876
+Class Mayo 1 - Correct: 320, Total: 518, Accuracy: 0.6178
+Class Mayo 2 - Correct: 95, Total: 216, Accuracy: 0.4398
+Class Mayo 3 - Correct: 109, Total: 149, Accuracy: 0.7315
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        816      204       11        5
+Mayo 1        151      320       35       12
+Mayo 2         23       57       95       41
+Mayo 3          4        4       32      109
+
+Overall Accuracy 171: 0.6931
+Class Mayo 0 - Correct: 837, Total: 1036, Accuracy: 0.8079
+Class Mayo 1 - Correct: 303, Total: 518, Accuracy: 0.5849
+Class Mayo 2 - Correct: 85, Total: 216, Accuracy: 0.3935
+Class Mayo 3 - Correct: 105, Total: 149, Accuracy: 0.7047
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        837      175       18        6
+Mayo 1        170      303       33       12
+Mayo 2         33       63       85       35
+Mayo 3          6        5       33      105
+
+Overall Accuracy 172: 0.6936
+Class Mayo 0 - Correct: 834, Total: 1036, Accuracy: 0.8050
+Class Mayo 1 - Correct: 301, Total: 518, Accuracy: 0.5811
+Class Mayo 2 - Correct: 93, Total: 216, Accuracy: 0.4306
+Class Mayo 3 - Correct: 103, Total: 149, Accuracy: 0.6913
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        834      180       19        3
+Mayo 1        171      301       31       15
+Mayo 2         30       55       93       38
+Mayo 3          9        5       32      103
+
+Overall Accuracy 173: 0.7024
+Class Mayo 0 - Correct: 851, Total: 1036, Accuracy: 0.8214
+Class Mayo 1 - Correct: 298, Total: 518, Accuracy: 0.5753
+Class Mayo 2 - Correct: 88, Total: 216, Accuracy: 0.4074
+Class Mayo 3 - Correct: 111, Total: 149, Accuracy: 0.7450
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        851      168       11        6
+Mayo 1        169      298       38       13
+Mayo 2         31       65       88       32
+Mayo 3          4        5       29      111
+
+Overall Accuracy 174: 0.6952
+Class Mayo 0 - Correct: 834, Total: 1036, Accuracy: 0.8050
+Class Mayo 1 - Correct: 297, Total: 518, Accuracy: 0.5734
+Class Mayo 2 - Correct: 93, Total: 216, Accuracy: 0.4306
+Class Mayo 3 - Correct: 110, Total: 149, Accuracy: 0.7383
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        834      181       18        3
+Mayo 1        172      297       41        8
+Mayo 2         25       56       93       42
+Mayo 3          5        4       30      110
+
+Overall Accuracy 175: 0.6894
+Class Mayo 0 - Correct: 818, Total: 1036, Accuracy: 0.7896
+Class Mayo 1 - Correct: 305, Total: 518, Accuracy: 0.5888
+Class Mayo 2 - Correct: 93, Total: 216, Accuracy: 0.4306
+Class Mayo 3 - Correct: 107, Total: 149, Accuracy: 0.7181
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        818      198       13        7
+Mayo 1        168      305       32       13
+Mayo 2         24       61       93       38
+Mayo 3          5        7       30      107
+
+Overall Accuracy 176: 0.6952
+Class Mayo 0 - Correct: 823, Total: 1036, Accuracy: 0.7944
+Class Mayo 1 - Correct: 320, Total: 518, Accuracy: 0.6178
+Class Mayo 2 - Correct: 89, Total: 216, Accuracy: 0.4120
+Class Mayo 3 - Correct: 102, Total: 149, Accuracy: 0.6846
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        823      184       16       13
+Mayo 1        150      320       39        9
+Mayo 2         26       64       89       37
+Mayo 3          6        5       36      102
+
+Overall Accuracy 177: 0.6931
+Class Mayo 0 - Correct: 835, Total: 1036, Accuracy: 0.8060
+Class Mayo 1 - Correct: 299, Total: 518, Accuracy: 0.5772
+Class Mayo 2 - Correct: 93, Total: 216, Accuracy: 0.4306
+Class Mayo 3 - Correct: 103, Total: 149, Accuracy: 0.6913
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        835      177       17        7
+Mayo 1        172      299       38        9
+Mayo 2         28       61       93       34
+Mayo 3          6        5       35      103
+
+Overall Accuracy 178: 0.6988
+Class Mayo 0 - Correct: 847, Total: 1036, Accuracy: 0.8176
+Class Mayo 1 - Correct: 299, Total: 518, Accuracy: 0.5772
+Class Mayo 2 - Correct: 90, Total: 216, Accuracy: 0.4167
+Class Mayo 3 - Correct: 105, Total: 149, Accuracy: 0.7047
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        847      168       18        3
+Mayo 1        169      299       34       16
+Mayo 2         29       64       90       33
+Mayo 3          7        6       31      105
+
+Epoch 90/200 | Train Loss: 0.3408 | Train Acc: 0.8786 | Val Loss: 1.0819 | Val Acc: 0.6957
+Epoch 91/200 | Train Loss: 0.3371 | Train Acc: 0.8776 | Val Loss: 1.0964 | Val Acc: 0.6993
+Epoch 92/200 | Train Loss: 0.3367 | Train Acc: 0.8758 | Val Loss: 1.0576 | Val Acc: 0.6931
+Epoch 93/200 | Train Loss: 0.3224 | Train Acc: 0.8826 | Val Loss: 1.0991 | Val Acc: 0.6915
+Epoch 94/200 | Train Loss: 0.3236 | Train Acc: 0.8828 | Val Loss: 1.0797 | Val Acc: 0.7077
+Epoch 95/200 | Train Loss: 0.3193 | Train Acc: 0.8849 | Val Loss: 1.0721 | Val Acc: 0.6863
+Epoch 96/200 | Train Loss: 0.3133 | Train Acc: 0.8853 | Val Loss: 1.1818 | Val Acc: 0.6795
+Epoch 97/200 | Train Loss: 0.3073 | Train Acc: 0.8885 | Val Loss: 1.1480 | Val Acc: 0.6858
+Epoch 98/200 | Train Loss: 0.3080 | Train Acc: 0.8882 | Val Loss: 1.1149 | Val Acc: 0.6941
+Epoch 99/200 | Train Loss: 0.3063 | Train Acc: 0.8885 | Val Loss: 1.1441 | Val Acc: 0.6717
+Epoch 100/200 | Train Loss: 0.2990 | Train Acc: 0.8942 | Val Loss: 1.1354 | Val Acc: 0.6915
+Epoch 101/200 | Train Loss: 0.2954 | Train Acc: 0.8932 | Val Loss: 1.1186 | Val Acc: 0.7014
+Epoch 102/200 | Train Loss: 0.2840 | Train Acc: 0.8968 | Val Loss: 1.1637 | Val Acc: 0.6863
+Epoch 103/200 | Train Loss: 0.2852 | Train Acc: 0.8981 | Val Loss: 1.1603 | Val Acc: 0.6972
+Epoch 104/200 | Train Loss: 0.2798 | Train Acc: 0.9010 | Val Loss: 1.2204 | Val Acc: 0.6863
+Epoch 105/200 | Train Loss: 0.2778 | Train Acc: 0.9021 | Val Loss: 1.1632 | Val Acc: 0.6879
+Epoch 106/200 | Train Loss: 0.2736 | Train Acc: 0.9018 | Val Loss: 1.1627 | Val Acc: 0.7004
+Epoch 107/200 | Train Loss: 0.2771 | Train Acc: 0.9006 | Val Loss: 1.1864 | Val Acc: 0.6826
+Epoch 108/200 | Train Loss: 0.2718 | Train Acc: 0.9047 | Val Loss: 1.1296 | Val Acc: 0.7024
+Epoch 109/200 | Train Loss: 0.2586 | Train Acc: 0.9070 | Val Loss: 1.2544 | Val Acc: 0.6837
+Epoch 110/200 | Train Loss: 0.2629 | Train Acc: 0.9050 | Val Loss: 1.1771 | Val Acc: 0.6920
+Epoch 111/200 | Train Loss: 0.2517 | Train Acc: 0.9099 | Val Loss: 1.2458 | Val Acc: 0.6941
+Epoch 112/200 | Train Loss: 0.2581 | Train Acc: 0.9073 | Val Loss: 1.1829 | Val Acc: 0.6920
+Epoch 113/200 | Train Loss: 0.2481 | Train Acc: 0.9137 | Val Loss: 1.2195 | Val Acc: 0.7124
+Epoch 114/200 | Train Loss: 0.2512 | Train Acc: 0.9092 | Val Loss: 1.2410 | Val Acc: 0.6790
+Epoch 115/200 | Train Loss: 0.2444 | Train Acc: 0.9129 | Val Loss: 1.2237 | Val Acc: 0.6847
+Epoch 116/200 | Train Loss: 0.2391 | Train Acc: 0.9154 | Val Loss: 1.2751 | Val Acc: 0.6655
+Epoch 117/200 | Train Loss: 0.2401 | Train Acc: 0.9146 | Val Loss: 1.2276 | Val Acc: 0.7030
+Epoch 118/200 | Train Loss: 0.2351 | Train Acc: 0.9136 | Val Loss: 1.2316 | Val Acc: 0.6920
+Epoch 119/200 | Train Loss: 0.2328 | Train Acc: 0.9158 | Val Loss: 1.2706 | Val Acc: 0.6816
+Epoch 120/200 | Train Loss: 0.2311 | Train Acc: 0.9191 | Val Loss: 1.2764 | Val Acc: 0.6821
+Epoch 121/200 | Train Loss: 0.2323 | Train Acc: 0.9184 | Val Loss: 1.2734 | Val Acc: 0.6889
+Epoch 122/200 | Train Loss: 0.2202 | Train Acc: 0.9227 | Val Loss: 1.3180 | Val Acc: 0.6952
+Epoch 123/200 | Train Loss: 0.2139 | Train Acc: 0.9237 | Val Loss: 1.2398 | Val Acc: 0.6941
+Epoch 124/200 | Train Loss: 0.2136 | Train Acc: 0.9250 | Val Loss: 1.3496 | Val Acc: 0.6785
+Epoch 125/200 | Train Loss: 0.2124 | Train Acc: 0.9240 | Val Loss: 1.3403 | Val Acc: 0.6769
+Epoch 126/200 | Train Loss: 0.2067 | Train Acc: 0.9279 | Val Loss: 1.2886 | Val Acc: 0.6952
+Epoch 127/200 | Train Loss: 0.2124 | Train Acc: 0.9255 | Val Loss: 1.2912 | Val Acc: 0.6993
+Epoch 128/200 | Train Loss: 0.2140 | Train Acc: 0.9242 | Val Loss: 1.2633 | Val Acc: 0.6978
+Epoch 129/200 | Train Loss: 0.1978 | Train Acc: 0.9313 | Val Loss: 1.3146 | Val Acc: 0.6873
+Epoch 130/200 | Train Loss: 0.2032 | Train Acc: 0.9273 | Val Loss: 1.2896 | Val Acc: 0.7071
+Epoch 131/200 | Train Loss: 0.1957 | Train Acc: 0.9307 | Val Loss: 1.3071 | Val Acc: 0.6957
+Epoch 132/200 | Train Loss: 0.1909 | Train Acc: 0.9324 | Val Loss: 1.4510 | Val Acc: 0.6582
+Epoch 133/200 | Train Loss: 0.1905 | Train Acc: 0.9323 | Val Loss: 1.3955 | Val Acc: 0.6920
+Epoch 134/200 | Train Loss: 0.1842 | Train Acc: 0.9349 | Val Loss: 1.3233 | Val Acc: 0.7014
+Epoch 135/200 | Train Loss: 0.1819 | Train Acc: 0.9347 | Val Loss: 1.3810 | Val Acc: 0.6993
+Epoch 136/200 | Train Loss: 0.1786 | Train Acc: 0.9381 | Val Loss: 1.3576 | Val Acc: 0.6925
+Epoch 137/200 | Train Loss: 0.1866 | Train Acc: 0.9367 | Val Loss: 1.3192 | Val Acc: 0.6941
+Epoch 138/200 | Train Loss: 0.1813 | Train Acc: 0.9363 | Val Loss: 1.3591 | Val Acc: 0.6952
+Epoch 139/200 | Train Loss: 0.1733 | Train Acc: 0.9385 | Val Loss: 1.4133 | Val Acc: 0.6925
+Epoch 140/200 | Train Loss: 0.1735 | Train Acc: 0.9406 | Val Loss: 1.3814 | Val Acc: 0.6905
+Epoch 141/200 | Train Loss: 0.1699 | Train Acc: 0.9417 | Val Loss: 1.3556 | Val Acc: 0.6967
+Epoch 142/200 | Train Loss: 0.1713 | Train Acc: 0.9406 | Val Loss: 1.4663 | Val Acc: 0.6853
+Epoch 143/200 | Train Loss: 0.1668 | Train Acc: 0.9415 | Val Loss: 1.3858 | Val Acc: 0.6998
+Epoch 144/200 | Train Loss: 0.1635 | Train Acc: 0.9443 | Val Loss: 1.4099 | Val Acc: 0.6972
+Epoch 145/200 | Train Loss: 0.1682 | Train Acc: 0.9416 | Val Loss: 1.3550 | Val Acc: 0.7024
+Epoch 146/200 | Train Loss: 0.1609 | Train Acc: 0.9460 | Val Loss: 1.4282 | Val Acc: 0.6978
+Epoch 147/200 | Train Loss: 0.1556 | Train Acc: 0.9457 | Val Loss: 1.3934 | Val Acc: 0.7139
+Epoch 148/200 | Train Loss: 0.1528 | Train Acc: 0.9477 | Val Loss: 1.4624 | Val Acc: 0.6905
+Epoch 149/200 | Train Loss: 0.1573 | Train Acc: 0.9471 | Val Loss: 1.3956 | Val Acc: 0.7004
+Epoch 150/200 | Train Loss: 0.1504 | Train Acc: 0.9472 | Val Loss: 1.4860 | Val Acc: 0.6816
+Epoch 151/200 | Train Loss: 0.1461 | Train Acc: 0.9508 | Val Loss: 1.4818 | Val Acc: 0.7066
+Epoch 152/200 | Train Loss: 0.1465 | Train Acc: 0.9478 | Val Loss: 1.5155 | Val Acc: 0.6832
+Epoch 153/200 | Train Loss: 0.1433 | Train Acc: 0.9497 | Val Loss: 1.4759 | Val Acc: 0.6957
+Epoch 154/200 | Train Loss: 0.1416 | Train Acc: 0.9511 | Val Loss: 1.4978 | Val Acc: 0.6952
+Epoch 155/200 | Train Loss: 0.1418 | Train Acc: 0.9504 | Val Loss: 1.5439 | Val Acc: 0.6795
+Epoch 156/200 | Train Loss: 0.1409 | Train Acc: 0.9511 | Val Loss: 1.5135 | Val Acc: 0.6769
+Epoch 157/200 | Train Loss: 0.1345 | Train Acc: 0.9530 | Val Loss: 1.4699 | Val Acc: 0.6811
+Epoch 158/200 | Train Loss: 0.1352 | Train Acc: 0.9538 | Val Loss: 1.5141 | Val Acc: 0.6972
+Epoch 159/200 | Train Loss: 0.1402 | Train Acc: 0.9527 | Val Loss: 1.5004 | Val Acc: 0.6972
+Epoch 160/200 | Train Loss: 0.1340 | Train Acc: 0.9552 | Val Loss: 1.5223 | Val Acc: 0.6962
+Epoch 161/200 | Train Loss: 0.1317 | Train Acc: 0.9542 | Val Loss: 1.5272 | Val Acc: 0.6905
+Epoch 162/200 | Train Loss: 0.1301 | Train Acc: 0.9569 | Val Loss: 1.5226 | Val Acc: 0.6957
+Epoch 163/200 | Train Loss: 0.1281 | Train Acc: 0.9544 | Val Loss: 1.5909 | Val Acc: 0.6774
+Epoch 164/200 | Train Loss: 0.1303 | Train Acc: 0.9561 | Val Loss: 1.5105 | Val Acc: 0.6910
+Epoch 165/200 | Train Loss: 0.1262 | Train Acc: 0.9573 | Val Loss: 1.5382 | Val Acc: 0.6884
+Epoch 166/200 | Train Loss: 0.1236 | Train Acc: 0.9579 | Val Loss: 1.5769 | Val Acc: 0.6837
+Epoch 167/200 | Train Loss: 0.1252 | Train Acc: 0.9582 | Val Loss: 1.5999 | Val Acc: 0.6931
+Epoch 168/200 | Train Loss: 0.1228 | Train Acc: 0.9586 | Val Loss: 1.5427 | Val Acc: 0.7030
+Epoch 169/200 | Train Loss: 0.1175 | Train Acc: 0.9626 | Val Loss: 1.5236 | Val Acc: 0.6988
+Epoch 170/200 | Train Loss: 0.1188 | Train Acc: 0.9597 | Val Loss: 1.5735 | Val Acc: 0.6925
+Epoch 171/200 | Train Loss: 0.1178 | Train Acc: 0.9598 | Val Loss: 1.6050 | Val Acc: 0.6983
+Epoch 172/200 | Train Loss: 0.1227 | Train Acc: 0.9590 | Val Loss: 1.6281 | Val Acc: 0.6931
+Epoch 173/200 | Train Loss: 0.1151 | Train Acc: 0.9616 | Val Loss: 1.5358 | Val Acc: 0.6936
+Epoch 174/200 | Train Loss: 0.1199 | Train Acc: 0.9595 | Val Loss: 1.5468 | Val Acc: 0.7024
+Epoch 175/200 | Train Loss: 0.1159 | Train Acc: 0.9608 | Val Loss: 1.5763 | Val Acc: 0.6952
+Epoch 176/200 | Train Loss: 0.1118 | Train Acc: 0.9636 | Val Loss: 1.6250 | Val Acc: 0.6894
+Epoch 177/200 | Train Loss: 0.1092 | Train Acc: 0.9638 | Val Loss: 1.6152 | Val Acc: 0.6952
+Epoch 178/200 | Train Loss: 0.1139 | Train Acc: 0.9618 | Val Loss: 1.5881 | Val Acc: 0.6931
+Overall Accuracy 179: 0.6936
+Class Mayo 0 - Correct: 840, Total: 1036, Accuracy: 0.8108
+Class Mayo 1 - Correct: 307, Total: 518, Accuracy: 0.5927
+Class Mayo 2 - Correct: 80, Total: 216, Accuracy: 0.3704
+Class Mayo 3 - Correct: 104, Total: 149, Accuracy: 0.6980
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        840      175       16        5
+Mayo 1        175      307       27        9
+Mayo 2         30       71       80       35
+Mayo 3          7        6       32      104
+
+Overall Accuracy 180: 0.7186
+Class Mayo 0 - Correct: 871, Total: 1036, Accuracy: 0.8407
+Class Mayo 1 - Correct: 312, Total: 518, Accuracy: 0.6023
+Class Mayo 2 - Correct: 92, Total: 216, Accuracy: 0.4259
+Class Mayo 3 - Correct: 104, Total: 149, Accuracy: 0.6980
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        871      149       15        1
+Mayo 1        169      312       25       12
+Mayo 2         23       61       92       40
+Mayo 3          7        7       31      104
+
+Overall Accuracy 181: 0.6998
+Class Mayo 0 - Correct: 837, Total: 1036, Accuracy: 0.8079
+Class Mayo 1 - Correct: 308, Total: 518, Accuracy: 0.5946
+Class Mayo 2 - Correct: 95, Total: 216, Accuracy: 0.4398
+Class Mayo 3 - Correct: 103, Total: 149, Accuracy: 0.6913
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        837      177       14        8
+Mayo 1        170      308       31        9
+Mayo 2         24       57       95       40
+Mayo 3          7        6       33      103
+
+Overall Accuracy 182: 0.6894
+Class Mayo 0 - Correct: 825, Total: 1036, Accuracy: 0.7963
+Class Mayo 1 - Correct: 299, Total: 518, Accuracy: 0.5772
+Class Mayo 2 - Correct: 95, Total: 216, Accuracy: 0.4398
+Class Mayo 3 - Correct: 104, Total: 149, Accuracy: 0.6980
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        825      185       16       10
+Mayo 1        167      299       41       11
+Mayo 2         24       56       95       41
+Mayo 3          7        7       31      104
+
+Overall Accuracy 183: 0.6957
+Class Mayo 0 - Correct: 838, Total: 1036, Accuracy: 0.8089
+Class Mayo 1 - Correct: 298, Total: 518, Accuracy: 0.5753
+Class Mayo 2 - Correct: 92, Total: 216, Accuracy: 0.4259
+Class Mayo 3 - Correct: 107, Total: 149, Accuracy: 0.7181
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        838      177       12        9
+Mayo 1        171      298       38       11
+Mayo 2         33       54       92       37
+Mayo 3          6        4       32      107
+
+Overall Accuracy 184: 0.6993
+Class Mayo 0 - Correct: 834, Total: 1036, Accuracy: 0.8050
+Class Mayo 1 - Correct: 312, Total: 518, Accuracy: 0.6023
+Class Mayo 2 - Correct: 95, Total: 216, Accuracy: 0.4398
+Class Mayo 3 - Correct: 101, Total: 149, Accuracy: 0.6779
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        834      172       25        5
+Mayo 1        162      312       35        9
+Mayo 2         24       65       95       32
+Mayo 3          5        8       35      101
+
+Overall Accuracy 185: 0.6863
+Class Mayo 0 - Correct: 809, Total: 1036, Accuracy: 0.7809
+Class Mayo 1 - Correct: 318, Total: 518, Accuracy: 0.6139
+Class Mayo 2 - Correct: 86, Total: 216, Accuracy: 0.3981
+Class Mayo 3 - Correct: 104, Total: 149, Accuracy: 0.6980
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        809      199       22        6
+Mayo 1        157      318       34        9
+Mayo 2         27       67       86       36
+Mayo 3          9        7       29      104
+
+Overall Accuracy 186: 0.7056
+Class Mayo 0 - Correct: 851, Total: 1036, Accuracy: 0.8214
+Class Mayo 1 - Correct: 306, Total: 518, Accuracy: 0.5907
+Class Mayo 2 - Correct: 87, Total: 216, Accuracy: 0.4028
+Class Mayo 3 - Correct: 110, Total: 149, Accuracy: 0.7383
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        851      168       16        1
+Mayo 1        158      306       37       17
+Mayo 2         27       67       87       35
+Mayo 3          6        6       27      110
+
+Overall Accuracy 187: 0.7009
+Class Mayo 0 - Correct: 843, Total: 1036, Accuracy: 0.8137
+Class Mayo 1 - Correct: 305, Total: 518, Accuracy: 0.5888
+Class Mayo 2 - Correct: 93, Total: 216, Accuracy: 0.4306
+Class Mayo 3 - Correct: 104, Total: 149, Accuracy: 0.6980
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        843      169       18        6
+Mayo 1        166      305       34       13
+Mayo 2         19       66       93       38
+Mayo 3          4        5       36      104
+
+Overall Accuracy 188: 0.6884
+Class Mayo 0 - Correct: 829, Total: 1036, Accuracy: 0.8002
+Class Mayo 1 - Correct: 295, Total: 518, Accuracy: 0.5695
+Class Mayo 2 - Correct: 93, Total: 216, Accuracy: 0.4306
+Class Mayo 3 - Correct: 104, Total: 149, Accuracy: 0.6980
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        829      186       15        6
+Mayo 1        174      295       36       13
+Mayo 2         25       62       93       36
+Mayo 3          5        7       33      104
+
+Overall Accuracy 189: 0.7035
+Class Mayo 0 - Correct: 843, Total: 1036, Accuracy: 0.8137
+Class Mayo 1 - Correct: 312, Total: 518, Accuracy: 0.6023
+Class Mayo 2 - Correct: 90, Total: 216, Accuracy: 0.4167
+Class Mayo 3 - Correct: 105, Total: 149, Accuracy: 0.7047
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        843      162       22        9
+Mayo 1        162      312       30       14
+Mayo 2         23       66       90       37
+Mayo 3          5        7       32      105
+
+Overall Accuracy 190: 0.7035
+Class Mayo 0 - Correct: 849, Total: 1036, Accuracy: 0.8195
+Class Mayo 1 - Correct: 306, Total: 518, Accuracy: 0.5907
+Class Mayo 2 - Correct: 88, Total: 216, Accuracy: 0.4074
+Class Mayo 3 - Correct: 107, Total: 149, Accuracy: 0.7181
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        849      170       15        2
+Mayo 1        165      306       35       12
+Mayo 2         22       68       88       38
+Mayo 3          5        6       31      107
+
+Overall Accuracy 191: 0.7019
+Class Mayo 0 - Correct: 848, Total: 1036, Accuracy: 0.8185
+Class Mayo 1 - Correct: 299, Total: 518, Accuracy: 0.5772
+Class Mayo 2 - Correct: 95, Total: 216, Accuracy: 0.4398
+Class Mayo 3 - Correct: 105, Total: 149, Accuracy: 0.7047
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        848      172       13        3
+Mayo 1        165      299       42       12
+Mayo 2         27       61       95       33
+Mayo 3          6        4       34      105
+
+Overall Accuracy 192: 0.6993
+Class Mayo 0 - Correct: 843, Total: 1036, Accuracy: 0.8137
+Class Mayo 1 - Correct: 308, Total: 518, Accuracy: 0.5946
+Class Mayo 2 - Correct: 86, Total: 216, Accuracy: 0.3981
+Class Mayo 3 - Correct: 105, Total: 149, Accuracy: 0.7047
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        843      170       16        7
+Mayo 1        165      308       35       10
+Mayo 2         26       66       86       38
+Mayo 3          6        6       32      105
+
+Overall Accuracy 193: 0.6941
+Class Mayo 0 - Correct: 827, Total: 1036, Accuracy: 0.7983
+Class Mayo 1 - Correct: 306, Total: 518, Accuracy: 0.5907
+Class Mayo 2 - Correct: 91, Total: 216, Accuracy: 0.4213
+Class Mayo 3 - Correct: 108, Total: 149, Accuracy: 0.7248
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        827      192       11        6
+Mayo 1        160      306       44        8
+Mayo 2         29       59       91       37
+Mayo 3          6        8       27      108
+
+Overall Accuracy 194: 0.6920
+Class Mayo 0 - Correct: 830, Total: 1036, Accuracy: 0.8012
+Class Mayo 1 - Correct: 305, Total: 518, Accuracy: 0.5888
+Class Mayo 2 - Correct: 88, Total: 216, Accuracy: 0.4074
+Class Mayo 3 - Correct: 105, Total: 149, Accuracy: 0.7047
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        830      188       16        2
+Mayo 1        167      305       36       10
+Mayo 2         33       57       88       38
+Mayo 3          6       10       28      105
+
+Overall Accuracy 195: 0.6983
+Class Mayo 0 - Correct: 836, Total: 1036, Accuracy: 0.8069
+Class Mayo 1 - Correct: 301, Total: 518, Accuracy: 0.5811
+Class Mayo 2 - Correct: 93, Total: 216, Accuracy: 0.4306
+Class Mayo 3 - Correct: 110, Total: 149, Accuracy: 0.7383
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        836      182       14        4
+Mayo 1        171      301       36       10
+Mayo 2         29       61       93       33
+Mayo 3          6        4       29      110
+
+Overall Accuracy 196: 0.6957
+Class Mayo 0 - Correct: 836, Total: 1036, Accuracy: 0.8069
+Class Mayo 1 - Correct: 314, Total: 518, Accuracy: 0.6062
+Class Mayo 2 - Correct: 85, Total: 216, Accuracy: 0.3935
+Class Mayo 3 - Correct: 100, Total: 149, Accuracy: 0.6711
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        836      175       19        6
+Mayo 1        160      314       34       10
+Mayo 2         29       67       85       35
+Mayo 3          5        8       36      100
+
+Overall Accuracy 197: 0.6941
+Class Mayo 0 - Correct: 832, Total: 1036, Accuracy: 0.8031
+Class Mayo 1 - Correct: 305, Total: 518, Accuracy: 0.5888
+Class Mayo 2 - Correct: 87, Total: 216, Accuracy: 0.4028
+Class Mayo 3 - Correct: 108, Total: 149, Accuracy: 0.7248
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        832      181       17        6
+Mayo 1        162      305       42        9
+Mayo 2         28       62       87       39
+Mayo 3          3        6       32      108
+
+Overall Accuracy 198: 0.6931
+Class Mayo 0 - Correct: 833, Total: 1036, Accuracy: 0.8041
+Class Mayo 1 - Correct: 305, Total: 518, Accuracy: 0.5888
+Class Mayo 2 - Correct: 89, Total: 216, Accuracy: 0.4120
+Class Mayo 3 - Correct: 103, Total: 149, Accuracy: 0.6913
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        833      177       14       12
+Mayo 1        163      305       38       12
+Mayo 2         29       68       89       30
+Mayo 3          8        6       32      103
+
+Overall Accuracy 199: 0.7014
+Class Mayo 0 - Correct: 844, Total: 1036, Accuracy: 0.8147
+Class Mayo 1 - Correct: 311, Total: 518, Accuracy: 0.6004
+Class Mayo 2 - Correct: 86, Total: 216, Accuracy: 0.3981
+Class Mayo 3 - Correct: 105, Total: 149, Accuracy: 0.7047
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        844      172       16        4
+Mayo 1        166      311       32        9
+Mayo 2         26       67       86       37
+Mayo 3          6        6       32      105
+
+Epoch 179/200 | Train Loss: 0.1115 | Train Acc: 0.9616 | Val Loss: 1.6170 | Val Acc: 0.6988
+Epoch 180/200 | Train Loss: 0.1097 | Train Acc: 0.9623 | Val Loss: 1.6222 | Val Acc: 0.6936
+Epoch 181/200 | Train Loss: 0.1103 | Train Acc: 0.9630 | Val Loss: 1.5333 | Val Acc: 0.7186
+Epoch 182/200 | Train Loss: 0.1103 | Train Acc: 0.9634 | Val Loss: 1.6207 | Val Acc: 0.6998
+Epoch 183/200 | Train Loss: 0.1095 | Train Acc: 0.9631 | Val Loss: 1.6466 | Val Acc: 0.6894
+Epoch 184/200 | Train Loss: 0.1091 | Train Acc: 0.9630 | Val Loss: 1.6014 | Val Acc: 0.6957
+Epoch 185/200 | Train Loss: 0.1117 | Train Acc: 0.9623 | Val Loss: 1.5707 | Val Acc: 0.6993
+Epoch 186/200 | Train Loss: 0.1112 | Train Acc: 0.9623 | Val Loss: 1.6340 | Val Acc: 0.6863
+Epoch 187/200 | Train Loss: 0.1096 | Train Acc: 0.9628 | Val Loss: 1.5739 | Val Acc: 0.7056
+Epoch 188/200 | Train Loss: 0.1011 | Train Acc: 0.9662 | Val Loss: 1.5989 | Val Acc: 0.7009
+Epoch 189/200 | Train Loss: 0.1046 | Train Acc: 0.9645 | Val Loss: 1.6458 | Val Acc: 0.6884
+Epoch 190/200 | Train Loss: 0.1091 | Train Acc: 0.9623 | Val Loss: 1.5681 | Val Acc: 0.7035
+Epoch 191/200 | Train Loss: 0.1029 | Train Acc: 0.9645 | Val Loss: 1.6083 | Val Acc: 0.7035
+Epoch 192/200 | Train Loss: 0.1065 | Train Acc: 0.9637 | Val Loss: 1.5557 | Val Acc: 0.7019
+Epoch 193/200 | Train Loss: 0.1051 | Train Acc: 0.9644 | Val Loss: 1.6391 | Val Acc: 0.6993
+Epoch 194/200 | Train Loss: 0.1070 | Train Acc: 0.9638 | Val Loss: 1.5648 | Val Acc: 0.6941
+Epoch 195/200 | Train Loss: 0.1062 | Train Acc: 0.9634 | Val Loss: 1.6276 | Val Acc: 0.6920
+Epoch 196/200 | Train Loss: 0.1073 | Train Acc: 0.9646 | Val Loss: 1.5823 | Val Acc: 0.6983
+Epoch 197/200 | Train Loss: 0.1033 | Train Acc: 0.9645 | Val Loss: 1.6102 | Val Acc: 0.6957
+Epoch 198/200 | Train Loss: 0.1045 | Train Acc: 0.9639 | Val Loss: 1.5787 | Val Acc: 0.6941
+Epoch 199/200 | Train Loss: 0.1046 | Train Acc: 0.9658 | Val Loss: 1.6360 | Val Acc: 0.6931
+Epoch 200/200 | Train Loss: 0.1037 | Train Acc: 0.9647 | Val Loss: 1.5857 | Val Acc: 0.7014
+
+Test Set Evaluation:
+Overall Accuracy 199: 0.6661
+Class Mayo 0 - Correct: 779, Total: 925, Accuracy: 0.8422
+Class Mayo 1 - Correct: 226, Total: 464, Accuracy: 0.4871
+Class Mayo 2 - Correct: 55, Total: 177, Accuracy: 0.3107
+Class Mayo 3 - Correct: 63, Total: 120, Accuracy: 0.5250
+
+Confusion Matrix:
+Predicted ?
+True ?    Mayo 0   Mayo 1   Mayo 2   Mayo 3  
+Mayo 0        779      134        6        6
+Mayo 1        200      226       30        8
+Mayo 2         22       63       55       37
+Mayo 3         23       13       21       63
+
+
+Best validation accuracy: 0.7186
+Final test accuracy: 0.6661
